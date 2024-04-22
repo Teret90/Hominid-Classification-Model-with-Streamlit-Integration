@@ -247,16 +247,16 @@ def main():
     st.title("Tamaño de los Caninos")
     st.write("Selecciona el tamaño de los caninos:")
 
-    # Lista de opciones para la selección
+   
     opciones_caninos = list(canine_s_mapping.keys())
 
-    # Desplegable para que el usuario elija el tamaño de los caninos
+    
     seleccion_tamaño_caninos = st.selectbox("Selecciona el tamaño de los caninos:", opciones_caninos)
 
-    # Mapear la selección a su valor numérico correspondiente
+   
     valor_numerico_caninos = canine_s_mapping.get(seleccion_tamaño_caninos)
 
-    # Mostrar el valor numérico correspondiente
+  
     st.write(f"El valor numérico correspondiente para '{seleccion_tamaño_caninos}' es: {valor_numerico_caninos}")
 
 
@@ -273,7 +273,7 @@ def main():
     esmalte_dental = []
     tamano_caninos = []
 
-    # Interfaz para que el usuario introduzca las respuestas
+   
     tiempos.append(tiempo_seleccionado)
     bipedos.append(valor_numerico_biped)
     foramen.append(valor_numerico_foramen)
@@ -340,6 +340,6 @@ def main():
     df_predicciones.rename(columns={0: 'Predicción clase'}, inplace=True)
     st.write(df_predicciones)
 
-    #if modelo.predict(df_respuestas)== 0:
+
 
 main()
