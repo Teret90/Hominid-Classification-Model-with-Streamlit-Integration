@@ -292,8 +292,8 @@ df2['Skeleton_encoded'] = df2['Skeleton'].map(skeleton_mapping)
 # TARGET2, ESPECIES
 
 especies = {
-    'hominino Orrorin tugenencin':0,
-    'hominino Sahelanthropus tchadensis': 1,
+    'hominino Sahelanthropus tchadensis': 0,
+    'hominino Orrorin tugenencin':1,
     'hominino Ardipithecus ramidus / kabadda':2,
     'Ardipithecus Ramidus / Kadabba':3,
     'Australopithecus Anamensis': 4,

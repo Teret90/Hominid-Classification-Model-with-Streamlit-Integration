@@ -4,6 +4,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pickle
+import os
 
 from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
 
@@ -90,5 +91,16 @@ plt.xticks(rotation=90)
 plt.xticks(range(len(lista_nombres_hominidos)), lista_nombres_hominidos)
 plt.yticks(rotation=360)
 plt.yticks(range(len(lista_nombres_hominidos)), lista_nombres_hominidos)
-plt.title('Confusion Matrix')
-plt.show();
+plt.title('Confusion Matrix: rendimiento del Modelo')
+
+
+carpeta_imagenes = "../img/"
+if not os.path.exists(carpeta_imagenes):
+    os.makedirs(carpeta_imagenes)
+
+# Nombre del archivo de la figura
+nombre_figura = "confusion_matrix.png"
+
+# Guardar la figura en la carpeta de imágenes
+ruta_figura = os.path.join(carpeta_imagenes, nombre_figura)
+plt.savefig(ruta_figura)

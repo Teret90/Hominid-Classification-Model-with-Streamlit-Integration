@@ -1,0 +1,5 @@
+classifier__max_depth: 6
+classifier__max_leaf_nodes: 18
+classifier__n_estimators: 500
+pca__n_components: 8
+scaler: null

@@ -14,7 +14,7 @@ Homo Sapiens,Homo tardío,0.71223073,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,
 Paranthropus Robustus,Paranthropus,2.30911917,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Paranthropus Robustus,Paranthropus,2.21191248,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Homo Georgicus,Homo temprano,1.81813924,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
-hominino Sahelanthropus tchadensis,Homininos,7.09680322,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.09680322,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Erectus,Homo temprano,1.28404361,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Australopithecus Afarensis,Australopithecus,4.11741294,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Australopithecus Garhi,Australopithecus,2.39112249,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
@@ -52,9 +52,9 @@ hominino Ardipithecus ramidus / kabadda,Homininos,4.12520384,0,1,0.25,2,4,1,1,1,
 hominino Ardipithecus ramidus / kabadda,Homininos,4.14540538,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Paranthropus Robustus,Paranthropus,2.01353407,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Paranthropus Robustus,Paranthropus,2.53721241,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
-hominino Sahelanthropus tchadensis,Homininos,7.02724169,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.02724169,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Sediba,Australopithecus,2.27725515,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
-hominino Sahelanthropus tchadensis,Homininos,6.7635157,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.7635157,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Rodhesiensis,Homo tardío,1.06081741,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Homo Naledi,Otros,0.69320586,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Homo Naledi,Otros,0.85645122,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
@@ -72,9 +72,9 @@ Paranthropus Boisei,Paranthropus,2.96089784,0,1,0.0833333333333333,5,1,0,0,1,0,0
 Australopithecus Afarensis,Australopithecus,4.53606203,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Paranthropus Aethiopicus,Paranthropus,2.55300482,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Georgicus,Homo temprano,1.95395179,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
-hominino Sahelanthropus tchadensis,Homininos,6.87029366,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.87029366,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Garhi,Australopithecus,3.03886135,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
-hominino Sahelanthropus tchadensis,Homininos,6.93818393,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.93818393,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Heidelbergensis,Homo temprano,0.39785683,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Australopithecus Bahrelghazali,Australopithecus,4.04006209,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Homo Rodhesiensis,Homo tardío,0.37660645,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
@@ -84,13 +84,13 @@ Australopithecus Africanus,Australopithecus,3.7169778,0,2,0.0833333333333333,2,4
 Australopithecus Afarensis,Australopithecus,3.70499083,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Australopithecus Bahrelghazali,Australopithecus,3.20141499,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Australopithecus Sediba,Australopithecus,2.56698918,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
-hominino Orrorin tugenencin,Homininos,6.35357617,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.35357617,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Rudolfensis,Homo temprano,2.72054938,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Homo Heidelbergensis,Homo temprano,0.372329,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Floresiensis,Otros,0.13668972,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Australopithecus Bahrelghazali,Australopithecus,3.47081009,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Homo Sapiens,Homo tardío,0.95675072,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
-hominino Orrorin tugenencin,Homininos,5.97895446,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.97895446,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Rodhesiensis,Homo tardío,0.34148319,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Australopithecus Afarensis,Australopithecus,3.71531159,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Paranthropus Robustus,Paranthropus,2.39994628,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
@@ -135,7 +135,7 @@ Homo Erectus,Homo temprano,1.37616052,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2
 Australopithecus Sediba,Australopithecus,2.32133995,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Homo Ergaster,Homo temprano,1.67264016,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Australopithecus Anamensis,Australopithecus,4.28393211,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
-hominino Sahelanthropus tchadensis,Homininos,7.60187614,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.60187614,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 hominino Ardipithecus ramidus / kabadda,Homininos,4.48250049,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Australopithecus Garhi,Australopithecus,2.83926247,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Erectus,Homo temprano,1.23620995,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
@@ -174,9 +174,9 @@ Paranthropus Robustus,Paranthropus,1.79967084,0,2,0.0833333333333333,5,1,0,0,1,0
 Homo Floresiensis,Otros,0.35075631,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Australopithecus Africanus,Australopithecus,3.92733922,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Homo Antecesor,Homo temprano,1.4560584,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Orrorin tugenencin,Homininos,6.55584743,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.55584743,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Antecesor,Homo temprano,0.79467343,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Sahelanthropus tchadensis,Homininos,7.22877514,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.22877514,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Bahrelghazali,Australopithecus,3.7658411,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Homo Habilis,Homo temprano,2.21059993,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Paranthropus Aethiopicus,Paranthropus,2.86380369,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
@@ -188,7 +188,7 @@ Australopithecus Sediba,Australopithecus,1.65128922,0,2,0.25,2,3,1,2,2,1,0,1,0,0
 Paranthropus Boisei,Paranthropus,2.49657192,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Paranthropus Boisei,Paranthropus,2.63252086,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Paranthropus Robustus,Paranthropus,1.80180382,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
-hominino Orrorin tugenencin,Homininos,6.14327253,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.14327253,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Habilis,Homo temprano,2.82380263,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Homo Habilis,Homo temprano,3.06651029,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Australopithecus Africanus,Australopithecus,3.62354233,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
@@ -197,7 +197,7 @@ Australopithecus Afarensis,Australopithecus,4.14591659,0,1,0.25,4,3,1,1,2,0,1,0,
 Homo Habilis,Homo temprano,2.95510469,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Homo Erectus,Homo temprano,1.9824689,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Paranthropus Aethiopicus,Paranthropus,3.02157107,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
-hominino Orrorin tugenencin,Homininos,5.96428136,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.96428136,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Anamensis,Australopithecus,4.17123327,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Paranthropus Aethiopicus,Paranthropus,2.44621228,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Ergaster,Homo temprano,1.31458648,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
@@ -214,19 +214,19 @@ Australopithecus Africanus,Australopithecus,4.12806361,0,2,0.0833333333333333,2,
 Australopithecus Africanus,Australopithecus,3.22286728,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Australopithecus Sediba,Australopithecus,1.71846628,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Paranthropus Aethiopicus,Paranthropus,3.10434695,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
-hominino Sahelanthropus tchadensis,Homininos,7.29060017,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.29060017,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Afarensis,Australopithecus,3.75346118,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Paranthropus Aethiopicus,Paranthropus,2.59138294,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
-hominino Orrorin tugenencin,Homininos,6.21626412,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.21626412,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Robustus,Paranthropus,2.47593184,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Paranthropus Boisei,Paranthropus,2.6787439,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
-hominino Orrorin tugenencin,Homininos,6.69569802,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
-hominino Orrorin tugenencin,Homininos,6.61589754,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
-hominino Sahelanthropus tchadensis,Homininos,6.74335836,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Orrorin tugenencin,Homininos,6.69569802,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Orrorin tugenencin,Homininos,6.61589754,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.74335836,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Bahrelghazali,Australopithecus,3.27774649,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Paranthropus Aethiopicus,Paranthropus,2.85794475,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Paranthropus Robustus,Paranthropus,2.29988696,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
-hominino Sahelanthropus tchadensis,Homininos,6.720628,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.720628,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 "Homo Neanderthalensis
 ",Homo tardío,0.83109358,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
 Homo Heidelbergensis,Homo temprano,0.26925637,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
@@ -234,7 +234,7 @@ Paranthropus Robustus,Paranthropus,2.59847119,0,2,0.0833333333333333,5,1,0,0,1,0
 Homo Ergaster,Homo temprano,1.53144128,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Homo Sapiens,Homo tardío,0.07879383,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 hominino Ardipithecus ramidus / kabadda,Homininos,4.51486158,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
-hominino Orrorin tugenencin,Homininos,5.96450725,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.96450725,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Erectus,Homo temprano,1.00412846,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Homo Heidelbergensis,Homo temprano,0.9552184,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Paranthropus Aethiopicus,Paranthropus,3.24356639,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
@@ -242,8 +242,8 @@ Paranthropus Boisei,Paranthropus,2.36452019,0,1,0.0833333333333333,5,1,0,0,1,0,0
 Australopithecus Africanus,Australopithecus,3.76024047,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Homo Sapiens,Homo tardío,0.52658427,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Paranthropus Aethiopicus,Paranthropus,2.75991846,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
-hominino Orrorin tugenencin,Homininos,6.56656272,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
-hominino Orrorin tugenencin,Homininos,6.14313189,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.56656272,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Orrorin tugenencin,Homininos,6.14313189,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Afarensis,Australopithecus,4.21185043,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Naledi,Otros,0.72492354,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Homo Naledi,Otros,0.50731686,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
@@ -252,7 +252,7 @@ Australopithecus Africanus,Australopithecus,3.2983946,0,2,0.0833333333333333,2,4
 "Homo Neanderthalensis
 ",Homo tardío,0.85302293,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
 Paranthropus Aethiopicus,Paranthropus,2.85918606,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
-hominino Sahelanthropus tchadensis,Homininos,7.56057575,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.56057575,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Antecesor,Homo temprano,1.28479527,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Australopithecus Afarensis,Australopithecus,4.42725684,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Australopithecus Bahrelghazali,Australopithecus,3.57727922,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
@@ -260,7 +260,7 @@ Homo Georgicus,Homo temprano,2.28066621,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2
 Paranthropus Aethiopicus,Paranthropus,2.93479436,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Naledi,Otros,0.69372538,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Homo Floresiensis,Otros,0.08364683,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
-hominino Sahelanthropus tchadensis,Homininos,6.77732255,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.77732255,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Naledi,Otros,0.91815734,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Paranthropus Boisei,Paranthropus,2.68283731,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Australopithecus Garhi,Australopithecus,2.47859965,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
@@ -274,7 +274,7 @@ Homo Antecesor,Homo temprano,1.49853675,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2
 "Homo Neanderthalensis
 ",Homo tardío,0.75844207,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
 Homo Naledi,Otros,0.57309915,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
-hominino Orrorin tugenencin,Homininos,6.06521043,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.06521043,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Heidelbergensis,Homo temprano,0.73098595,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Antecesor,Homo temprano,1.06135493,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Australopithecus Anamensis,Australopithecus,4.82308553,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
@@ -293,7 +293,7 @@ Australopithecus Bahrelghazali,Australopithecus,3.81637492,0,0,0.25,2,3,1,2,2,0,
 hominino Ardipithecus ramidus / kabadda,Homininos,4.42037922,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Australopithecus Anamensis,Australopithecus,4.11716192,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Antecesor,Homo temprano,1.65583042,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Sahelanthropus tchadensis,Homininos,6.77208055,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.77208055,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Rodhesiensis,Homo tardío,0.3796031,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Homo Floresiensis,Otros,0.89461428,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Australopithecus Bahrelghazali,Australopithecus,3.61759898,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
@@ -304,10 +304,10 @@ Homo Naledi,Otros,0.90263333,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,
 Homo Sapiens,Homo tardío,0.17369487,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Homo Sapiens,Homo tardío,0.60652062,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Paranthropus Boisei,Paranthropus,2.66662475,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
-hominino Sahelanthropus tchadensis,Homininos,6.98603614,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.98603614,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Paranthropus Robustus,Paranthropus,2.25200624,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Paranthropus Robustus,Paranthropus,2.26345916,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
-hominino Orrorin tugenencin,Homininos,6.196166,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.196166,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Afarensis,Australopithecus,4.16127986,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Rudolfensis,Homo temprano,2.51919532,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Paranthropus Robustus,Paranthropus,2.03577877,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
@@ -320,7 +320,7 @@ Homo Erectus,Homo temprano,1.51582974,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2
 Paranthropus Robustus,Paranthropus,2.1116275,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Australopithecus Anamensis,Australopithecus,4.35159248,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Habilis,Homo temprano,3.17959889,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
-hominino Orrorin tugenencin,Homininos,6.1788196,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.1788196,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Naledi,Otros,0.4957614,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Homo Naledi,Otros,0.1235175,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Australopithecus Bahrelghazali,Australopithecus,4.0136553,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
@@ -335,7 +335,7 @@ Australopithecus Africanus,Australopithecus,3.67299694,0,2,0.0833333333333333,2,
 Homo Heidelbergensis,Homo temprano,0.44521078,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Paranthropus Robustus,Paranthropus,2.43193135,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 hominino Ardipithecus ramidus / kabadda,Homininos,4.55218383,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
-hominino Sahelanthropus tchadensis,Homininos,7.44006674,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.44006674,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Africanus,Australopithecus,4.00813347,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Homo Heidelbergensis,Homo temprano,0.29917304,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Antecesor,Homo temprano,1.00454639,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
@@ -413,7 +413,7 @@ Australopithecus Anamensis,Australopithecus,4.57984255,0,1,0.0833333333333333,4,
 Homo Georgicus,Homo temprano,1.92635379,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Homo Erectus,Homo temprano,1.77552718,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Homo Ergaster,Homo temprano,1.86280281,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
-hominino Sahelanthropus tchadensis,Homininos,7.44151465,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.44151465,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Sapiens,Homo tardío,0.745312,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Paranthropus Robustus,Paranthropus,1.72643934,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Australopithecus Sediba,Australopithecus,1.94867865,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
@@ -424,9 +424,9 @@ Homo Erectus,Homo temprano,1.08175988,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2
 Australopithecus Garhi,Australopithecus,2.91725231,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Paranthropus Aethiopicus,Paranthropus,2.33584945,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Antecesor,Homo temprano,1.45283467,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Orrorin tugenencin,Homininos,5.9408885,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.9408885,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Robustus,Paranthropus,1.6256618,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
-hominino Orrorin tugenencin,Homininos,6.67851475,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.67851475,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Africanus,Australopithecus,4.19902512,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 "Homo Neanderthalensis
 ",Homo tardío,0.17381643,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
@@ -443,7 +443,7 @@ Homo Naledi,Otros,0.43635351,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,
 Paranthropus Boisei,Paranthropus,2.29044888,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Homo Habilis,Homo temprano,2.20718448,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Australopithecus Bahrelghazali,Australopithecus,3.25327338,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
-hominino Sahelanthropus tchadensis,Homininos,7.6994172,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.6994172,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Erectus,Homo temprano,1.89047896,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Paranthropus Aethiopicus,Paranthropus,2.67870568,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Paranthropus Aethiopicus,Paranthropus,2.6686735,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
@@ -482,12 +482,12 @@ Australopithecus Garhi,Australopithecus,2.60925905,0,1,0.25,4,3,1,2,2,0,0,0,1,1,
 Australopithecus Sediba,Australopithecus,2.08528427,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Homo Erectus,Homo temprano,1.72510298,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Homo Erectus,Homo temprano,1.20738133,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
-hominino Sahelanthropus tchadensis,Homininos,6.72392586,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.72392586,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Afarensis,Australopithecus,4.00696676,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Australopithecus Anamensis,Australopithecus,4.1167048,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Georgicus,Homo temprano,2.19196428,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Homo Georgicus,Homo temprano,1.8040295,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
-hominino Orrorin tugenencin,Homininos,6.57553363,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.57553363,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Anamensis,Australopithecus,4.89286154,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Georgicus,Homo temprano,2.41042667,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Homo Rodhesiensis,Homo tardío,0.43669027,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
@@ -513,7 +513,7 @@ Australopithecus Africanus,Australopithecus,3.74549901,0,2,0.0833333333333333,2,
 Paranthropus Boisei,Paranthropus,2.22161652,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Australopithecus Sediba,Australopithecus,1.97741464,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Homo Antecesor,Homo temprano,0.93529679,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Orrorin tugenencin,Homininos,6.29996832,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.29996832,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 hominino Ardipithecus ramidus / kabadda,Homininos,4.35362764,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Australopithecus Anamensis,Australopithecus,4.68976465,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Floresiensis,Otros,0.12840038,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
@@ -521,7 +521,7 @@ Homo Sapiens,Homo tardío,0.76724717,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,
 Homo Rudolfensis,Homo temprano,3.1466675,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Homo Erectus,Homo temprano,1.69546351,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Australopithecus Sediba,Australopithecus,1.82969563,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
-hominino Orrorin tugenencin,Homininos,6.49619621,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.49619621,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Georgicus,Homo temprano,1.51151272,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Homo Ergaster,Homo temprano,1.8425366,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Australopithecus Garhi,Australopithecus,2.56751221,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
@@ -536,14 +536,14 @@ Australopithecus Anamensis,Australopithecus,4.00147373,0,1,0.0833333333333333,4,
 Homo Georgicus,Homo temprano,2.46358716,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Australopithecus Afarensis,Australopithecus,4.05295423,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Georgicus,Homo temprano,2.33672912,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
-hominino Orrorin tugenencin,Homininos,6.46932139,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.46932139,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Heidelbergensis,Homo temprano,0.88527113,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Australopithecus Afarensis,Australopithecus,3.89996062,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Rodhesiensis,Homo tardío,0.48086201,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
-hominino Sahelanthropus tchadensis,Homininos,7.38669445,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.38669445,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Ergaster,Homo temprano,1.52426885,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Homo Heidelbergensis,Homo temprano,0.35054407,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
-hominino Orrorin tugenencin,Homininos,6.21860422,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.21860422,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Robustus,Paranthropus,2.07332279,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Australopithecus Bahrelghazali,Australopithecus,4.16815296,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Australopithecus Afarensis,Australopithecus,3.78753455,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
@@ -573,7 +573,7 @@ Australopithecus Afarensis,Australopithecus,3.93068312,0,1,0.25,4,3,1,1,2,0,1,0,
 Homo Habilis,Homo temprano,2.24983081,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Paranthropus Boisei,Paranthropus,2.38435917,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Paranthropus Aethiopicus,Paranthropus,2.56036015,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
-hominino Orrorin tugenencin,Homininos,6.35614511,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.35614511,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Antecesor,Homo temprano,1.11940526,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Homo Erectus,Homo temprano,1.33002094,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Paranthropus Robustus,Paranthropus,2.28751896,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
@@ -598,7 +598,7 @@ Homo Rudolfensis,Homo temprano,3.14031396,0,1,0.3333333333333333,2,3,2,2,2,0,0,0
 Homo Heidelbergensis,Homo temprano,0.54592283,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Antecesor,Homo temprano,1.11096385,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Paranthropus Aethiopicus,Paranthropus,3.28267348,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
-hominino Orrorin tugenencin,Homininos,6.12638739,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.12638739,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Naledi,Otros,0.94264931,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Paranthropus Boisei,Paranthropus,2.78599696,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Homo Ergaster,Homo temprano,1.57299907,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
@@ -606,26 +606,26 @@ hominino Ardipithecus ramidus / kabadda,Homininos,4.5479054,0,1,0.25,2,4,1,1,1,1
 Homo Rudolfensis,Homo temprano,2.97320739,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Homo Heidelbergensis,Homo temprano,0.28986456,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Floresiensis,Otros,0.72609693,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
-hominino Sahelanthropus tchadensis,Homininos,7.45256509,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.45256509,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Garhi,Australopithecus,2.71582539,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Australopithecus Sediba,Australopithecus,1.87709281,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Australopithecus Bahrelghazali,Australopithecus,4.11533427,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Homo Habilis,Homo temprano,2.42870424,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
-hominino Sahelanthropus tchadensis,Homininos,7.53886876,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.53886876,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Rudolfensis,Homo temprano,2.26515038,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Homo Antecesor,Homo temprano,0.86865354,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Australopithecus Afarensis,Australopithecus,3.69154698,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Australopithecus Sediba,Australopithecus,2.19390262,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Homo Habilis,Homo temprano,2.47482345,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Homo Naledi,Otros,0.65561017,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
-hominino Sahelanthropus tchadensis,Homininos,7.0907633,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.0907633,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Paranthropus Aethiopicus,Paranthropus,2.63695081,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Habilis,Homo temprano,3.05919036,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Paranthropus Aethiopicus,Paranthropus,2.50068385,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Floresiensis,Otros,0.88066101,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Homo Rodhesiensis,Homo tardío,0.72150855,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Homo Floresiensis,Otros,0.15252417,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
-hominino Orrorin tugenencin,Homininos,5.8727857,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.8727857,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 hominino Ardipithecus ramidus / kabadda,Homininos,4.12438167,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Homo Ergaster,Homo temprano,1.2462478,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Paranthropus Robustus,Paranthropus,2.22886343,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
@@ -635,7 +635,7 @@ Homo Erectus,Homo temprano,1.24294186,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2
 Paranthropus Boisei,Paranthropus,2.94279099,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Homo Erectus,Homo temprano,1.98462234,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Homo Ergaster,Homo temprano,1.49140483,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
-hominino Sahelanthropus tchadensis,Homininos,7.22147367,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.22147367,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Floresiensis,Otros,0.54964932,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Homo Floresiensis,Otros,0.27750698,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Paranthropus Aethiopicus,Paranthropus,2.63910166,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
@@ -646,7 +646,7 @@ Australopithecus Bahrelghazali,Australopithecus,3.60252453,0,0,0.25,2,3,1,2,2,0,
 Homo Georgicus,Homo temprano,1.53475117,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Australopithecus Africanus,Australopithecus,3.57032601,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Homo Antecesor,Homo temprano,0.89384803,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Orrorin tugenencin,Homininos,5.98331604,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.98331604,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Africanus,Australopithecus,4.06501591,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Homo Naledi,Otros,0.47128947,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Homo Ergaster,Homo temprano,1.53535882,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
@@ -661,7 +661,7 @@ Homo Ergaster,Homo temprano,2.14060223,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,
 Australopithecus Sediba,Australopithecus,2.38602683,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Australopithecus Garhi,Australopithecus,2.54159571,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Erectus,Homo temprano,1.25828865,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
-hominino Sahelanthropus tchadensis,Homininos,7.09996894,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.09996894,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Afarensis,Australopithecus,3.85003513,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Erectus,Homo temprano,1.29144108,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Homo Ergaster,Homo temprano,2.10869068,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
@@ -688,11 +688,11 @@ Homo Georgicus,Homo temprano,1.77624759,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2
 Homo Naledi,Otros,0.3011436,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Australopithecus Anamensis,Australopithecus,4.18237104,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Antecesor,Homo temprano,1.04638141,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Orrorin tugenencin,Homininos,5.95878179,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.95878179,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Robustus,Paranthropus,2.00119481,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Homo Habilis,Homo temprano,2.88492337,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Homo Habilis,Homo temprano,2.30287756,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
-hominino Orrorin tugenencin,Homininos,6.1529284,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.1529284,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Africanus,Australopithecus,3.35408542,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Australopithecus Africanus,Australopithecus,3.59174123,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Australopithecus Anamensis,Australopithecus,4.65690713,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
@@ -701,7 +701,7 @@ Australopithecus Anamensis,Australopithecus,4.16608177,0,1,0.0833333333333333,4,
 Australopithecus Sediba,Australopithecus,1.88235762,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Homo Heidelbergensis,Homo temprano,0.70938091,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 hominino Ardipithecus ramidus / kabadda,Homininos,4.15186399,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
-hominino Orrorin tugenencin,Homininos,6.20023859,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.20023859,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Aethiopicus,Paranthropus,2.83672942,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Australopithecus Bahrelghazali,Australopithecus,4.07673087,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Homo Habilis,Homo temprano,2.24524367,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
@@ -749,7 +749,7 @@ Australopithecus Garhi,Australopithecus,3.1789587,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2
 Homo Sapiens,Homo tardío,0.5938907,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Australopithecus Anamensis,Australopithecus,3.99941923,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Australopithecus Sediba,Australopithecus,1.73911768,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
-hominino Orrorin tugenencin,Homininos,6.28591188,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.28591188,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Boisei,Paranthropus,2.31820848,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Homo Rudolfensis,Homo temprano,2.77662077,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Homo Georgicus,Homo temprano,1.65128178,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
@@ -763,8 +763,8 @@ Homo Erectus,Homo temprano,1.3599736,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,
 Australopithecus Anamensis,Australopithecus,4.59528709,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Paranthropus Robustus,Paranthropus,1.96278246,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Homo Antecesor,Homo temprano,1.54256028,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Orrorin tugenencin,Homininos,6.04083205,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
-hominino Sahelanthropus tchadensis,Homininos,7.05136896,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Orrorin tugenencin,Homininos,6.04083205,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.05136896,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Sediba,Australopithecus,2.12127598,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Homo Georgicus,Homo temprano,1.96001872,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Homo Heidelbergensis,Homo temprano,0.75139214,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
@@ -790,14 +790,14 @@ Homo Georgicus,Homo temprano,2.47196568,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2
 Homo Naledi,Otros,0.36394433,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Homo Ergaster,Homo temprano,1.3486204,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Australopithecus Afarensis,Australopithecus,3.98011182,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
-hominino Orrorin tugenencin,Homininos,6.30653974,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.30653974,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Naledi,Otros,0.7397797,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Homo Rudolfensis,Homo temprano,2.20341968,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Australopithecus Anamensis,Australopithecus,4.35692164,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Rudolfensis,Homo temprano,2.79262657,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Homo Ergaster,Homo temprano,1.3106302,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Homo Rudolfensis,Homo temprano,3.1226436,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
-hominino Orrorin tugenencin,Homininos,6.37755463,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.37755463,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Africanus,Australopithecus,4.0842938,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Australopithecus Afarensis,Australopithecus,4.0424382,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Australopithecus Garhi,Australopithecus,2.51882414,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
@@ -830,7 +830,7 @@ Australopithecus Anamensis,Australopithecus,4.84088397,0,1,0.0833333333333333,4,
 Homo Heidelbergensis,Homo temprano,0.45029239,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 hominino Ardipithecus ramidus / kabadda,Homininos,4.0250505,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Australopithecus Sediba,Australopithecus,2.26370317,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
-hominino Orrorin tugenencin,Homininos,6.4217186,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.4217186,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Boisei,Paranthropus,2.70214956,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Australopithecus Garhi,Australopithecus,2.40333832,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Australopithecus Afarensis,Australopithecus,3.73269159,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
@@ -868,7 +868,7 @@ Homo Rudolfensis,Homo temprano,2.30264597,0,1,0.3333333333333333,2,3,2,2,2,0,0,0
 Homo Antecesor,Homo temprano,1.2069016,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Homo Habilis,Homo temprano,2.25533289,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Homo Erectus,Homo temprano,1.18098881,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
-hominino Sahelanthropus tchadensis,Homininos,6.85099427,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.85099427,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Georgicus,Homo temprano,2.05263796,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Homo Floresiensis,Otros,0.0534905,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Paranthropus Aethiopicus,Paranthropus,3.25441456,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
@@ -876,14 +876,14 @@ Paranthropus Aethiopicus,Paranthropus,3.25441456,0,1,0.0416666666666666,5,1,0,0,
 ",Homo tardío,0.6330901,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
 Paranthropus Robustus,Paranthropus,2.01226629,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Paranthropus Aethiopicus,Paranthropus,2.31105579,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
-hominino Orrorin tugenencin,Homininos,5.85995288,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.85995288,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Ergaster,Homo temprano,1.48168024,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Homo Antecesor,Homo temprano,1.49563962,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Orrorin tugenencin,Homininos,6.6170469,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
-hominino Sahelanthropus tchadensis,Homininos,6.95026558,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Orrorin tugenencin,Homininos,6.6170469,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.95026558,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Ergaster,Homo temprano,1.93953797,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Australopithecus Africanus,Australopithecus,3.8963764,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
-hominino Sahelanthropus tchadensis,Homininos,6.75823445,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.75823445,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Antecesor,Homo temprano,1.10619543,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Australopithecus Garhi,Australopithecus,3.1529066,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Erectus,Homo temprano,1.12834523,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
@@ -899,7 +899,7 @@ Homo Antecesor,Homo temprano,0.70226602,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2
 Australopithecus Sediba,Australopithecus,1.80600116,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Australopithecus Sediba,Australopithecus,2.30846138,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Australopithecus Sediba,Australopithecus,1.8755124,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
-hominino Orrorin tugenencin,Homininos,6.32549056,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.32549056,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Rodhesiensis,Homo tardío,0.97548096,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Homo Habilis,Homo temprano,2.59040649,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Homo Georgicus,Homo temprano,2.31935234,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
@@ -923,7 +923,7 @@ Paranthropus Boisei,Paranthropus,2.51830904,0,1,0.0833333333333333,5,1,0,0,1,0,0
 Australopithecus Afarensis,Australopithecus,4.254938,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Sapiens,Homo tardío,0.21646914,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Paranthropus Robustus,Paranthropus,2.2878026,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
-hominino Orrorin tugenencin,Homininos,6.61500733,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.61500733,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Africanus,Australopithecus,3.3986101,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Homo Sapiens,Homo tardío,0.72470564,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Homo Sapiens,Homo tardío,0.40664941,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
@@ -942,15 +942,15 @@ Paranthropus Aethiopicus,Paranthropus,2.3193858,0,1,0.0416666666666666,5,1,0,0,1
 ",Homo tardío,0.15262075,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
 Paranthropus Robustus,Paranthropus,2.35358219,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Homo Heidelbergensis,Homo temprano,0.95362371,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
-hominino Sahelanthropus tchadensis,Homininos,6.93061985,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.93061985,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Rudolfensis,Homo temprano,2.94594601,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
-hominino Sahelanthropus tchadensis,Homininos,6.82329737,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.82329737,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Naledi,Otros,0.85727163,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Paranthropus Aethiopicus,Paranthropus,2.93143581,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Australopithecus Afarensis,Australopithecus,4.07282217,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 hominino Ardipithecus ramidus / kabadda,Homininos,4.2394992,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Homo Rudolfensis,Homo temprano,2.24239594,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
-hominino Sahelanthropus tchadensis,Homininos,6.83916471,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.83916471,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Heidelbergensis,Homo temprano,1.16629607,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Sapiens,Homo tardío,0.46588617,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Homo Sapiens,Homo tardío,0.42911704,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
@@ -961,7 +961,7 @@ Australopithecus Africanus,Australopithecus,3.7394557,0,2,0.0833333333333333,2,4
 Homo Georgicus,Homo temprano,1.67896542,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Homo Habilis,Homo temprano,3.03944063,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Paranthropus Boisei,Paranthropus,2.46827341,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
-hominino Sahelanthropus tchadensis,Homininos,6.78958548,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.78958548,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Naledi,Otros,0.65372686,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Homo Erectus,Homo temprano,1.13189333,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Paranthropus Aethiopicus,Paranthropus,3.12678177,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
@@ -997,7 +997,7 @@ hominino Ardipithecus ramidus / kabadda,Homininos,4.39386646,0,1,0.25,2,4,1,1,1,
 Paranthropus Aethiopicus,Paranthropus,3.10338712,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Antecesor,Homo temprano,0.72457008,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Australopithecus Garhi,Australopithecus,2.38973257,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
-hominino Orrorin tugenencin,Homininos,5.93083484,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.93083484,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Sediba,Australopithecus,2.59496502,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Australopithecus Bahrelghazali,Australopithecus,3.37222758,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Paranthropus Boisei,Paranthropus,2.10738131,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
@@ -1006,7 +1006,7 @@ Homo Rodhesiensis,Homo tardío,0.98806972,0,1,0.3333333333333333,4,3,2,2,3,0,1,1
 hominino Ardipithecus ramidus / kabadda,Homininos,3.87933887,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Homo Antecesor,Homo temprano,0.95772452,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Paranthropus Boisei,Paranthropus,2.03635602,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
-hominino Sahelanthropus tchadensis,Homininos,7.04747338,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.04747338,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Habilis,Homo temprano,3.16489365,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Paranthropus Aethiopicus,Paranthropus,2.42572337,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Rodhesiensis,Homo tardío,0.92825617,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
@@ -1062,7 +1062,7 @@ Paranthropus Aethiopicus,Paranthropus,2.33223417,0,1,0.0416666666666666,5,1,0,0,
 Homo Rodhesiensis,Homo tardío,0.42214328,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Homo Erectus,Homo temprano,1.025712,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Homo Habilis,Homo temprano,3.07652765,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
-hominino Orrorin tugenencin,Homininos,6.48965247,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.48965247,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Sediba,Australopithecus,2.4480592,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Homo Rodhesiensis,Homo tardío,0.41144765,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 hominino Ardipithecus ramidus / kabadda,Homininos,3.82497417,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
@@ -1071,10 +1071,10 @@ Homo Floresiensis,Otros,0.69290189,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,
 "Homo Neanderthalensis
 ",Homo tardío,0.34970416,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
 Homo Georgicus,Homo temprano,2.00994007,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
-hominino Sahelanthropus tchadensis,Homininos,6.91292346,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.91292346,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Paranthropus Robustus,Paranthropus,1.87751469,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Homo Sapiens,Homo tardío,0.04912544,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
-hominino Orrorin tugenencin,Homininos,5.84639735,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.84639735,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 hominino Ardipithecus ramidus / kabadda,Homininos,4.02819293,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Homo Sapiens,Homo tardío,0.04660725,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Homo Rodhesiensis,Homo tardío,0.40082906,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
@@ -1093,7 +1093,7 @@ Homo Heidelbergensis,Homo temprano,1.16748049,2,0,0.0833333333333333,2,2,3,4,3,1
 Homo Floresiensis,Otros,0.4202536,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Australopithecus Bahrelghazali,Australopithecus,3.2756872,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Homo Habilis,Homo temprano,2.94164107,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
-hominino Orrorin tugenencin,Homininos,6.32279214,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.32279214,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Heidelbergensis,Homo temprano,0.25590872,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Sapiens,Homo tardío,0.96115767,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Homo Georgicus,Homo temprano,2.28656652,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
@@ -1102,8 +1102,8 @@ Paranthropus Aethiopicus,Paranthropus,3.15504872,0,1,0.0416666666666666,5,1,0,0,
 Australopithecus Anamensis,Australopithecus,4.19949603,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Georgicus,Homo temprano,1.86908116,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Homo Habilis,Homo temprano,2.36611768,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
-hominino Sahelanthropus tchadensis,Homininos,7.35232838,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
-hominino Orrorin tugenencin,Homininos,6.66498458,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Sahelanthropus tchadensis,Homininos,7.35232838,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.66498458,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 hominino Ardipithecus ramidus / kabadda,Homininos,3.97051896,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Homo Habilis,Homo temprano,2.36052333,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Australopithecus Africanus,Australopithecus,3.71109715,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
@@ -1114,7 +1114,7 @@ Paranthropus Boisei,Paranthropus,2.96627514,0,1,0.0833333333333333,5,1,0,0,1,0,0
 Paranthropus Aethiopicus,Paranthropus,2.7982521,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Antecesor,Homo temprano,1.0215425,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Homo Rudolfensis,Homo temprano,2.749934,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
-hominino Sahelanthropus tchadensis,Homininos,7.49444896,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.49444896,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Rodhesiensis,Homo tardío,0.67199332,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Australopithecus Anamensis,Australopithecus,4.76615453,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Erectus,Homo temprano,1.47338067,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
@@ -1131,10 +1131,10 @@ Australopithecus Garhi,Australopithecus,2.91736628,0,1,0.25,4,3,1,2,2,0,0,0,1,1,
 Homo Floresiensis,Otros,0.82119567,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Homo Georgicus,Homo temprano,1.79154328,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Australopithecus Garhi,Australopithecus,2.45300136,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
-hominino Orrorin tugenencin,Homininos,6.32989021,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.32989021,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Anamensis,Australopithecus,4.0482672,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Habilis,Homo temprano,3.18084741,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
-hominino Orrorin tugenencin,Homininos,6.11872444,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.11872444,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Naledi,Otros,0.90247955,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Homo Ergaster,Homo temprano,1.38521745,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Homo Heidelbergensis,Homo temprano,0.20730179,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
@@ -1143,7 +1143,7 @@ Paranthropus Robustus,Paranthropus,1.61777151,0,2,0.0833333333333333,5,1,0,0,1,0
 Australopithecus Bahrelghazali,Australopithecus,3.32875485,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 hominino Ardipithecus ramidus / kabadda,Homininos,3.95181985,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Homo Ergaster,Homo temprano,1.68782911,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
-hominino Orrorin tugenencin,Homininos,6.47526395,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.47526395,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Sapiens,Homo tardío,0.73665289,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 hominino Ardipithecus ramidus / kabadda,Homininos,4.47386672,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Homo Georgicus,Homo temprano,1.65699298,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
@@ -1155,7 +1155,7 @@ hominino Ardipithecus ramidus / kabadda,Homininos,4.33494308,0,1,0.25,2,4,1,1,1,
 Homo Rudolfensis,Homo temprano,2.36745404,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Homo Antecesor,Homo temprano,1.4956577,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Paranthropus Aethiopicus,Paranthropus,2.89098558,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
-hominino Sahelanthropus tchadensis,Homininos,7.1563668,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.1563668,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 hominino Ardipithecus ramidus / kabadda,Homininos,3.96878488,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Homo Erectus,Homo temprano,1.39319194,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Australopithecus Garhi,Australopithecus,2.22994224,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
@@ -1167,7 +1167,7 @@ hominino Ardipithecus ramidus / kabadda,Homininos,4.06450187,0,1,0.25,2,4,1,1,1,
 Homo Ergaster,Homo temprano,2.16483152,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Australopithecus Africanus,Australopithecus,3.96544398,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Homo Rudolfensis,Homo temprano,2.71379238,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
-hominino Sahelanthropus tchadensis,Homininos,6.99651918,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.99651918,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Sediba,Australopithecus,1.76556777,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Homo Rodhesiensis,Homo tardío,0.51511154,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Australopithecus Bahrelghazali,Australopithecus,4.14837117,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
@@ -1188,7 +1188,7 @@ Homo Rudolfensis,Homo temprano,2.98545405,0,1,0.3333333333333333,2,3,2,2,2,0,0,0
 Australopithecus Africanus,Australopithecus,4.03178947,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Homo Rodhesiensis,Homo tardío,0.48048168,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Homo Rodhesiensis,Homo tardío,0.59646742,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
-hominino Sahelanthropus tchadensis,Homininos,7.49856382,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.49856382,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Georgicus,Homo temprano,2.49493872,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Homo Rudolfensis,Homo temprano,2.7493791,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Homo Habilis,Homo temprano,2.52243231,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
@@ -1198,7 +1198,7 @@ Paranthropus Boisei,Paranthropus,2.66316257,0,1,0.0833333333333333,5,1,0,0,1,0,0
 Homo Heidelbergensis,Homo temprano,0.79103116,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Rodhesiensis,Homo tardío,1.11123513,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Homo Erectus,Homo temprano,1.29159047,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
-hominino Orrorin tugenencin,Homininos,5.95851628,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.95851628,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Garhi,Australopithecus,2.63888849,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Paranthropus Aethiopicus,Paranthropus,2.78972015,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Sapiens,Homo tardío,0.15241861,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
@@ -1216,13 +1216,13 @@ Australopithecus Bahrelghazali,Australopithecus,3.41731663,0,0,0.25,2,3,1,2,2,0,
 ",Homo tardío,0.30843939,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
 Australopithecus Anamensis,Australopithecus,4.63507994,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Ergaster,Homo temprano,1.30106448,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
-hominino Orrorin tugenencin,Homininos,5.91648483,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.91648483,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Ergaster,Homo temprano,1.26574716,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 "Homo Neanderthalensis
 ",Homo tardío,0.2195329,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
 Homo Antecesor,Homo temprano,1.63667709,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Homo Naledi,Otros,0.40855164,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
-hominino Sahelanthropus tchadensis,Homininos,7.39003042,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.39003042,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Ergaster,Homo temprano,2.13287738,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Australopithecus Afarensis,Australopithecus,4.14139172,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Australopithecus Garhi,Australopithecus,2.85446581,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
@@ -1251,12 +1251,12 @@ Australopithecus Bahrelghazali,Australopithecus,4.12799832,0,0,0.25,2,3,1,2,2,0,
 Homo Habilis,Homo temprano,2.67971445,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Homo Sapiens,Homo tardío,0.33884945,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Homo Habilis,Homo temprano,2.64695912,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
-hominino Orrorin tugenencin,Homininos,6.28440087,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.28440087,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Aethiopicus,Paranthropus,2.63227268,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Australopithecus Bahrelghazali,Australopithecus,4.17716994,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Homo Naledi,Otros,0.97039974,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Australopithecus Afarensis,Australopithecus,4.43738889,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
-hominino Orrorin tugenencin,Homininos,6.24059028,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.24059028,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Boisei,Paranthropus,2.49467854,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Homo Rudolfensis,Homo temprano,2.47491556,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Homo Floresiensis,Otros,0.03117172,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
@@ -1269,7 +1269,7 @@ hominino Ardipithecus ramidus / kabadda,Homininos,3.70503975,0,1,0.25,2,4,1,1,1,
 Paranthropus Aethiopicus,Paranthropus,3.07660714,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Heidelbergensis,Homo temprano,0.76269182,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Heidelbergensis,Homo temprano,1.08681379,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
-hominino Orrorin tugenencin,Homininos,6.52544827,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.52544827,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Sediba,Australopithecus,2.46099381,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Australopithecus Garhi,Australopithecus,2.6977662,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 "Homo Neanderthalensis
@@ -1332,11 +1332,11 @@ Homo Erectus,Homo temprano,1.16668427,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2
 Paranthropus Aethiopicus,Paranthropus,2.77709768,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Australopithecus Garhi,Australopithecus,2.36607439,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Australopithecus Bahrelghazali,Australopithecus,3.64202426,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
-hominino Sahelanthropus tchadensis,Homininos,7.51648107,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.51648107,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Rudolfensis,Homo temprano,3.14782102,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
-hominino Sahelanthropus tchadensis,Homininos,6.76598795,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.76598795,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Bahrelghazali,Australopithecus,3.57518261,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
-hominino Orrorin tugenencin,Homininos,6.10744177,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.10744177,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Antecesor,Homo temprano,0.76656913,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Australopithecus Sediba,Australopithecus,2.38216004,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Homo Naledi,Otros,0.93731727,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
@@ -1353,12 +1353,12 @@ Australopithecus Afarensis,Australopithecus,4.52379166,0,1,0.25,4,3,1,1,2,0,1,0,
 Australopithecus Afarensis,Australopithecus,3.67298438,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Heidelbergensis,Homo temprano,0.74694057,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Australopithecus Sediba,Australopithecus,2.02260952,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
-hominino Sahelanthropus tchadensis,Homininos,6.94487278,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.94487278,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Sapiens,Homo tardío,0.7270618,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Australopithecus Garhi,Australopithecus,2.7243485,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Georgicus,Homo temprano,1.79135734,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
-hominino Sahelanthropus tchadensis,Homininos,7.60059523,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
-hominino Orrorin tugenencin,Homininos,6.04112375,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Sahelanthropus tchadensis,Homininos,7.60059523,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.04112375,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Antecesor,Homo temprano,0.74611196,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 hominino Ardipithecus ramidus / kabadda,Homininos,3.96583467,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Homo Floresiensis,Otros,0.84577817,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
@@ -1377,8 +1377,8 @@ Australopithecus Sediba,Australopithecus,2.41986646,0,2,0.25,2,3,1,2,2,1,0,1,0,0
 Homo Floresiensis,Otros,0.7799086,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Paranthropus Boisei,Paranthropus,2.96713534,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Australopithecus Anamensis,Australopithecus,4.50058979,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
-hominino Orrorin tugenencin,Homininos,6.31871392,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
-hominino Orrorin tugenencin,Homininos,6.59722876,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.31871392,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Orrorin tugenencin,Homininos,6.59722876,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Heidelbergensis,Homo temprano,0.92858066,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Floresiensis,Otros,0.36858326,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Homo Floresiensis,Otros,0.5415944,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
@@ -1387,22 +1387,22 @@ Australopithecus Africanus,Australopithecus,3.79217014,0,2,0.0833333333333333,2,
 Australopithecus Sediba,Australopithecus,1.66980849,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Homo Georgicus,Homo temprano,1.75198682,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 hominino Ardipithecus ramidus / kabadda,Homininos,4.69767905,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
-hominino Sahelanthropus tchadensis,Homininos,7.6701951,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.6701951,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 "Homo Neanderthalensis
 ",Homo tardío,0.54194395,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
 Homo Naledi,Otros,0.58175249,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Australopithecus Bahrelghazali,Australopithecus,3.75935253,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
-hominino Orrorin tugenencin,Homininos,6.57279843,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.57279843,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Georgicus,Homo temprano,2.21991463,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
-hominino Orrorin tugenencin,Homininos,6.17209762,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.17209762,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 hominino Ardipithecus ramidus / kabadda,Homininos,4.54700909,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
-hominino Orrorin tugenencin,Homininos,6.31015338,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.31015338,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Aethiopicus,Paranthropus,3.11438481,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Antecesor,Homo temprano,1.27557034,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Homo Heidelbergensis,Homo temprano,0.29367763,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Australopithecus Garhi,Australopithecus,2.68422341,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Georgicus,Homo temprano,2.13662966,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
-hominino Orrorin tugenencin,Homininos,6.41759884,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.41759884,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Heidelbergensis,Homo temprano,1.03275641,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Paranthropus Robustus,Paranthropus,1.77517004,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Homo Rudolfensis,Homo temprano,2.66041593,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
@@ -1412,7 +1412,7 @@ Homo Heidelbergensis,Homo temprano,0.97306659,2,0,0.0833333333333333,2,2,3,4,3,1
 Homo Floresiensis,Otros,0.9095119,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Paranthropus Robustus,Paranthropus,2.36898657,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Australopithecus Africanus,Australopithecus,3.83882549,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
-hominino Sahelanthropus tchadensis,Homininos,7.41245001,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.41245001,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Garhi,Australopithecus,2.45329565,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Erectus,Homo temprano,1.032675,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Homo Sapiens,Homo tardío,0.44727762,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
@@ -1423,13 +1423,13 @@ Homo Rodhesiensis,Homo tardío,0.32201873,0,1,0.3333333333333333,4,3,2,2,3,0,1,1
 Australopithecus Sediba,Australopithecus,2.48962916,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Paranthropus Boisei,Paranthropus,2.23060196,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Australopithecus Anamensis,Australopithecus,4.76935262,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
-hominino Sahelanthropus tchadensis,Homininos,7.64056396,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.64056396,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 hominino Ardipithecus ramidus / kabadda,Homininos,4.56815899,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Australopithecus Afarensis,Australopithecus,3.83176387,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Ergaster,Homo temprano,1.52115404,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Homo Rudolfensis,Homo temprano,2.44447465,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Australopithecus Garhi,Australopithecus,2.36054941,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
-hominino Sahelanthropus tchadensis,Homininos,6.8507371,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.8507371,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Heidelbergensis,Homo temprano,0.73590643,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Heidelbergensis,Homo temprano,0.9583277,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Habilis,Homo temprano,2.85860486,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
@@ -1455,7 +1455,7 @@ Homo Sapiens,Homo tardío,0.50792681,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,
 Paranthropus Boisei,Paranthropus,2.94013419,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 "Homo Neanderthalensis
 ",Homo tardío,0.00243443,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
-hominino Sahelanthropus tchadensis,Homininos,6.75710166,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.75710166,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Ergaster,Homo temprano,1.484112,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Australopithecus Garhi,Australopithecus,2.81363216,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Georgicus,Homo temprano,1.67623177,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
@@ -1498,7 +1498,7 @@ Homo Heidelbergensis,Homo temprano,0.96761882,2,0,0.0833333333333333,2,2,3,4,3,1
 Homo Antecesor,Homo temprano,0.88772283,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Homo Erectus,Homo temprano,1.17683732,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Australopithecus Sediba,Australopithecus,1.69942376,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
-hominino Orrorin tugenencin,Homininos,6.48456657,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.48456657,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Aethiopicus,Paranthropus,2.59246358,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 "Homo Neanderthalensis
 ",Homo tardío,0.84157144,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
@@ -1532,12 +1532,12 @@ Homo Ergaster,Homo temprano,1.97381815,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,
 "Homo Neanderthalensis
 ",Homo tardío,0.31319648,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
 Australopithecus Anamensis,Australopithecus,3.91950706,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
-hominino Sahelanthropus tchadensis,Homininos,7.49366322,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.49366322,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Afarensis,Australopithecus,4.47740498,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Australopithecus Afarensis,Australopithecus,4.30682084,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Paranthropus Boisei,Paranthropus,2.20161669,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Homo Sapiens,Homo tardío,0.00266213,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
-hominino Orrorin tugenencin,Homininos,6.1087042,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.1087042,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Garhi,Australopithecus,2.42741819,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Habilis,Homo temprano,2.56015015,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Australopithecus Anamensis,Australopithecus,4.4606501,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
@@ -1557,7 +1557,7 @@ Homo Rodhesiensis,Homo tardío,0.7007223,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,
 "Homo Neanderthalensis
 ",Homo tardío,0.55671388,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
 Homo Heidelbergensis,Homo temprano,0.41696131,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
-hominino Orrorin tugenencin,Homininos,6.43062319,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.43062319,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Garhi,Australopithecus,3.17722286,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Erectus,Homo temprano,1.87306564,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Homo Sapiens,Homo tardío,0.51503016,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
@@ -1566,15 +1566,15 @@ Homo Rodhesiensis,Homo tardío,1.11262298,0,1,0.3333333333333333,4,3,2,2,3,0,1,1
 Australopithecus Sediba,Australopithecus,1.77854618,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Homo Rodhesiensis,Homo tardío,0.30608257,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Homo Antecesor,Homo temprano,0.74729458,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Sahelanthropus tchadensis,Homininos,7.53692775,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.53692775,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Afarensis,Australopithecus,4.47522122,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Australopithecus Garhi,Australopithecus,2.52927369,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Rudolfensis,Homo temprano,2.89613263,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Australopithecus Bahrelghazali,Australopithecus,3.92781418,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Australopithecus Garhi,Australopithecus,2.26808973,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
-hominino Orrorin tugenencin,Homininos,6.46991109,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.46991109,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Rudolfensis,Homo temprano,2.74660465,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
-hominino Orrorin tugenencin,Homininos,6.59804649,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.59804649,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Garhi,Australopithecus,2.50112974,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Erectus,Homo temprano,1.52296977,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Homo Habilis,Homo temprano,2.48416118,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
@@ -1593,8 +1593,8 @@ Homo Rudolfensis,Homo temprano,2.97627449,0,1,0.3333333333333333,2,3,2,2,2,0,0,0
 Australopithecus Anamensis,Australopithecus,4.61279566,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Rodhesiensis,Homo tardío,0.85618001,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Homo Ergaster,Homo temprano,1.41761919,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
-hominino Orrorin tugenencin,Homininos,6.41996666,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
-hominino Sahelanthropus tchadensis,Homininos,6.87555201,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Orrorin tugenencin,Homininos,6.41996666,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.87555201,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Sapiens,Homo tardío,0.38653536,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Australopithecus Anamensis,Australopithecus,4.3414309,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Paranthropus Aethiopicus,Paranthropus,2.32859079,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
@@ -1616,7 +1616,7 @@ Homo Georgicus,Homo temprano,2.15739617,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2
 Homo Erectus,Homo temprano,1.2625808,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Homo Habilis,Homo temprano,2.26266414,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Homo Rudolfensis,Homo temprano,2.99693223,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
-hominino Sahelanthropus tchadensis,Homininos,7.67369622,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.67369622,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Africanus,Australopithecus,3.61783028,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Homo Naledi,Otros,0.48769355,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Australopithecus Anamensis,Australopithecus,4.4241769,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
@@ -1634,13 +1634,13 @@ Paranthropus Aethiopicus,Paranthropus,2.41732742,0,1,0.0416666666666666,5,1,0,0,
 Homo Rudolfensis,Homo temprano,2.53048548,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Homo Georgicus,Homo temprano,1.7299967,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Homo Heidelbergensis,Homo temprano,0.80686094,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
-hominino Orrorin tugenencin,Homininos,5.72820818,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.72820818,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Sediba,Australopithecus,2.42225699,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Homo Rodhesiensis,Homo tardío,0.87286631,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Homo Rudolfensis,Homo temprano,2.62770536,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Paranthropus Aethiopicus,Paranthropus,2.95911479,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Antecesor,Homo temprano,1.4101901,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Orrorin tugenencin,Homininos,5.83296772,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.83296772,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 "Homo Neanderthalensis
 ",Homo tardío,0.67130853,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
 Australopithecus Africanus,Australopithecus,3.42196012,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
@@ -1665,30 +1665,30 @@ hominino Ardipithecus ramidus / kabadda,Homininos,3.85217483,0,1,0.25,2,4,1,1,1,
 Paranthropus Aethiopicus,Paranthropus,2.68882661,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Antecesor,Homo temprano,1.37591959,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Paranthropus Robustus,Paranthropus,2.25326995,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
-hominino Sahelanthropus tchadensis,Homininos,7.04126274,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.04126274,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Rudolfensis,Homo temprano,2.9527472,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Homo Antecesor,Homo temprano,1.58959031,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Australopithecus Bahrelghazali,Australopithecus,4.10209828,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Homo Rodhesiensis,Homo tardío,1.25754025,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Homo Heidelbergensis,Homo temprano,1.0046172,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
-hominino Orrorin tugenencin,Homininos,6.53790252,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.53790252,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Boisei,Paranthropus,2.89567148,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 hominino Ardipithecus ramidus / kabadda,Homininos,4.45576487,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
-hominino Sahelanthropus tchadensis,Homininos,7.18890231,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.18890231,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Rudolfensis,Homo temprano,2.22093562,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Australopithecus Bahrelghazali,Australopithecus,3.33231019,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Australopithecus Garhi,Australopithecus,2.5875279,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Naledi,Otros,0.9800592,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
-hominino Sahelanthropus tchadensis,Homininos,6.85152726,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.85152726,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Africanus,Australopithecus,3.59539829,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
-hominino Sahelanthropus tchadensis,Homininos,7.29394376,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
-hominino Sahelanthropus tchadensis,Homininos,7.39183114,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.29394376,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Sahelanthropus tchadensis,Homininos,7.39183114,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Floresiensis,Otros,0.55560353,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Australopithecus Sediba,Australopithecus,2.33957648,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Paranthropus Aethiopicus,Paranthropus,2.89236351,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Sapiens,Homo tardío,0.53080584,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Homo Rodhesiensis,Homo tardío,0.386122,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
-hominino Orrorin tugenencin,Homininos,6.37209228,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.37209228,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 "Homo Neanderthalensis
 ",Homo tardío,0.5165389,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
 Paranthropus Aethiopicus,Paranthropus,2.42590724,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
@@ -1704,7 +1704,7 @@ Homo Rudolfensis,Homo temprano,2.73990982,0,1,0.3333333333333333,2,3,2,2,2,0,0,0
 Homo Heidelbergensis,Homo temprano,0.61837309,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Australopithecus Africanus,Australopithecus,3.89334804,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Homo Antecesor,Homo temprano,1.69816025,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Sahelanthropus tchadensis,Homininos,7.45071124,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.45071124,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Heidelbergensis,Homo temprano,0.24006924,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Australopithecus Bahrelghazali,Australopithecus,3.90517472,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Australopithecus Bahrelghazali,Australopithecus,3.76659054,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
@@ -1716,7 +1716,7 @@ hominino Ardipithecus ramidus / kabadda,Homininos,4.07227346,0,1,0.25,2,4,1,1,1,
 Homo Sapiens,Homo tardío,0.53414226,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 "Homo Neanderthalensis
 ",Homo tardío,0.68312873,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
-hominino Orrorin tugenencin,Homininos,6.2162581,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.2162581,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Robustus,Paranthropus,1.82914525,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Homo Ergaster,Homo temprano,1.88734369,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Homo Erectus,Homo temprano,1.4424189,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
@@ -1741,9 +1741,9 @@ Homo Habilis,Homo temprano,3.12555031,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2
 Homo Rodhesiensis,Homo tardío,0.40866252,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Australopithecus Anamensis,Australopithecus,4.79143373,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Paranthropus Aethiopicus,Paranthropus,3.08217671,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
-hominino Sahelanthropus tchadensis,Homininos,7.12304204,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
-hominino Sahelanthropus tchadensis,Homininos,7.04848432,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
-hominino Orrorin tugenencin,Homininos,6.21966996,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Sahelanthropus tchadensis,Homininos,7.12304204,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Sahelanthropus tchadensis,Homininos,7.04848432,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.21966996,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Anamensis,Australopithecus,4.41369812,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Naledi,Otros,0.05793392,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Homo Habilis,Homo temprano,2.76076693,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
@@ -1755,7 +1755,7 @@ Homo Floresiensis,Otros,0.09773263,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,
 Homo Heidelbergensis,Homo temprano,1.16048629,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Australopithecus Garhi,Australopithecus,2.30633599,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Sapiens,Homo tardío,0.7788215,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
-hominino Orrorin tugenencin,Homininos,6.21213845,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.21213845,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Ergaster,Homo temprano,1.96417877,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Homo Floresiensis,Otros,0.71565535,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Australopithecus Africanus,Australopithecus,4.12680712,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
@@ -1792,11 +1792,11 @@ Paranthropus Boisei,Paranthropus,2.13204573,0,1,0.0833333333333333,5,1,0,0,1,0,0
 hominino Ardipithecus ramidus / kabadda,Homininos,4.63845119,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Homo Erectus,Homo temprano,1.66420576,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Paranthropus Aethiopicus,Paranthropus,2.3712235,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
-hominino Sahelanthropus tchadensis,Homininos,6.85069398,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.85069398,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Afarensis,Australopithecus,4.52885111,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Paranthropus Robustus,Paranthropus,1.61432031,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Australopithecus Anamensis,Australopithecus,4.37261614,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
-hominino Orrorin tugenencin,Homininos,6.67854623,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.67854623,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 hominino Ardipithecus ramidus / kabadda,Homininos,4.5505007,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 hominino Ardipithecus ramidus / kabadda,Homininos,4.08648773,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Australopithecus Garhi,Australopithecus,2.61139269,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
@@ -1806,7 +1806,7 @@ Paranthropus Boisei,Paranthropus,2.49467806,0,1,0.0833333333333333,5,1,0,0,1,0,0
 Australopithecus Afarensis,Australopithecus,4.11393561,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Sapiens,Homo tardío,0.3899906,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Paranthropus Aethiopicus,Paranthropus,2.58279004,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
-hominino Sahelanthropus tchadensis,Homininos,7.02079831,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.02079831,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Paranthropus Robustus,Paranthropus,2.45727305,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Paranthropus Robustus,Paranthropus,1.65065294,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Homo Habilis,Homo temprano,2.92685905,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
@@ -1836,16 +1836,16 @@ Homo Rodhesiensis,Homo tardío,0.97732179,0,1,0.3333333333333333,4,3,2,2,3,0,1,1
 Homo Floresiensis,Otros,0.96091455,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Homo Rudolfensis,Homo temprano,2.62466882,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Paranthropus Boisei,Paranthropus,2.68760937,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
-hominino Orrorin tugenencin,Homininos,6.65464485,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.65464485,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Afarensis,Australopithecus,4.16134075,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Australopithecus Sediba,Australopithecus,2.17061635,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
-hominino Orrorin tugenencin,Homininos,6.37158576,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.37158576,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Afarensis,Australopithecus,3.97832937,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Australopithecus Bahrelghazali,Australopithecus,3.36889914,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Australopithecus Garhi,Australopithecus,2.67705528,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 hominino Ardipithecus ramidus / kabadda,Homininos,4.49197657,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Australopithecus Africanus,Australopithecus,3.49531958,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
-hominino Sahelanthropus tchadensis,Homininos,7.42866386,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.42866386,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Paranthropus Boisei,Paranthropus,2.36670167,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Homo Erectus,Homo temprano,1.38061875,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Australopithecus Sediba,Australopithecus,2.32375699,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
@@ -1857,8 +1857,8 @@ Australopithecus Garhi,Australopithecus,2.62789036,0,1,0.25,4,3,1,2,2,0,0,0,1,1,
 Homo Habilis,Homo temprano,2.74073362,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Homo Rudolfensis,Homo temprano,3.18578922,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Homo Rodhesiensis,Homo tardío,0.73897006,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
-hominino Sahelanthropus tchadensis,Homininos,7.08800277,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
-hominino Sahelanthropus tchadensis,Homininos,7.20725071,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.08800277,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Sahelanthropus tchadensis,Homininos,7.20725071,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Garhi,Australopithecus,2.89023303,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Australopithecus Anamensis,Australopithecus,4.30449572,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Habilis,Homo temprano,3.03975521,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
@@ -1867,7 +1867,7 @@ Australopithecus Africanus,Australopithecus,3.89054519,0,2,0.0833333333333333,2,
 Homo Floresiensis,Otros,0.05129421,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Homo Sapiens,Homo tardío,0.43578481,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Homo Rodhesiensis,Homo tardío,0.73450043,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
-hominino Sahelanthropus tchadensis,Homininos,6.7805283,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.7805283,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Heidelbergensis,Homo temprano,1.07381351,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Georgicus,Homo temprano,1.66020157,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Paranthropus Robustus,Paranthropus,1.8293779,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
@@ -1881,7 +1881,7 @@ Australopithecus Garhi,Australopithecus,2.23728606,0,1,0.25,4,3,1,2,2,0,0,0,1,1,
 "Homo Neanderthalensis
 ",Homo tardío,0.3343413,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
 Homo Heidelbergensis,Homo temprano,0.46777897,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
-hominino Orrorin tugenencin,Homininos,6.27753678,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.27753678,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Boisei,Paranthropus,2.03398802,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 hominino Ardipithecus ramidus / kabadda,Homininos,3.90887865,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Homo Rudolfensis,Homo temprano,3.00436362,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
@@ -1919,22 +1919,22 @@ Homo Rodhesiensis,Homo tardío,0.82750467,0,1,0.3333333333333333,4,3,2,2,3,0,1,1
 Australopithecus Anamensis,Australopithecus,4.59437393,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Erectus,Homo temprano,1.58755671,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Homo Floresiensis,Otros,0.10326384,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
-hominino Orrorin tugenencin,Homininos,6.64369967,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.64369967,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Rodhesiensis,Homo tardío,0.99016901,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Australopithecus Anamensis,Australopithecus,4.68682053,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
-hominino Sahelanthropus tchadensis,Homininos,7.44139138,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
-hominino Sahelanthropus tchadensis,Homininos,6.71363098,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.44139138,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Sahelanthropus tchadensis,Homininos,6.71363098,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Afarensis,Australopithecus,3.95739671,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Sapiens,Homo tardío,0.0787506,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Homo Antecesor,Homo temprano,0.8437986,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Sahelanthropus tchadensis,Homininos,7.01871711,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.01871711,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Ergaster,Homo temprano,1.50156544,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Homo Habilis,Homo temprano,2.44268462,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Paranthropus Aethiopicus,Paranthropus,3.2408509,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Paranthropus Boisei,Paranthropus,2.03015598,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Homo Ergaster,Homo temprano,1.70267387,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Homo Rudolfensis,Homo temprano,2.73059178,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
-hominino Sahelanthropus tchadensis,Homininos,6.83259963,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.83259963,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Afarensis,Australopithecus,4.08094213,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Paranthropus Aethiopicus,Paranthropus,2.34535578,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Australopithecus Anamensis,Australopithecus,4.75232523,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
@@ -1949,8 +1949,8 @@ Australopithecus Bahrelghazali,Australopithecus,3.49135304,0,0,0.25,2,3,1,2,2,0,
 Australopithecus Sediba,Australopithecus,1.79035273,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Homo Ergaster,Homo temprano,1.45130876,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Australopithecus Sediba,Australopithecus,2.4689522,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
-hominino Orrorin tugenencin,Homininos,6.57028009,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
-hominino Orrorin tugenencin,Homininos,6.44013425,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.57028009,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Orrorin tugenencin,Homininos,6.44013425,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Garhi,Australopithecus,2.54094532,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 "Homo Neanderthalensis
 ",Homo tardío,0.65517902,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
@@ -1961,9 +1961,9 @@ Australopithecus Afarensis,Australopithecus,4.12497495,0,1,0.25,4,3,1,1,2,0,1,0,
 Homo Naledi,Otros,0.28059875,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Homo Ergaster,Homo temprano,1.70197036,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Homo Georgicus,Homo temprano,1.69476161,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
-hominino Sahelanthropus tchadensis,Homininos,7.17282468,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.17282468,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Floresiensis,Otros,0.87430094,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
-hominino Orrorin tugenencin,Homininos,6.07923427,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.07923427,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Aethiopicus,Paranthropus,2.59786678,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Rudolfensis,Homo temprano,3.02570435,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Homo Heidelbergensis,Homo temprano,0.51788672,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
@@ -1974,24 +1974,24 @@ Paranthropus Robustus,Paranthropus,1.87954781,0,2,0.0833333333333333,5,1,0,0,1,0
 Australopithecus Garhi,Australopithecus,2.72192371,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Georgicus,Homo temprano,2.33941798,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Homo Sapiens,Homo tardío,0.43284729,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
-hominino Sahelanthropus tchadensis,Homininos,6.93287689,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.93287689,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Paranthropus Aethiopicus,Paranthropus,2.58338112,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Heidelbergensis,Homo temprano,0.34869482,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 "Homo Neanderthalensis
 ",Homo tardío,0.35251016,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
-hominino Sahelanthropus tchadensis,Homininos,6.79135606,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.79135606,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Georgicus,Homo temprano,1.57488237,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
-hominino Orrorin tugenencin,Homininos,6.39027159,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.39027159,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Sapiens,Homo tardío,0.70824847,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Homo Rudolfensis,Homo temprano,3.13100253,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Homo Ergaster,Homo temprano,1.36535424,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Homo Sapiens,Homo tardío,0.62867161,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
-hominino Sahelanthropus tchadensis,Homininos,7.62364792,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.62364792,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Paranthropus Boisei,Paranthropus,2.05495962,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Paranthropus Boisei,Paranthropus,2.31127223,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Paranthropus Robustus,Paranthropus,2.25162023,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Homo Rudolfensis,Homo temprano,2.87404467,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
-hominino Sahelanthropus tchadensis,Homininos,6.74757166,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.74757166,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Habilis,Homo temprano,2.78273711,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Homo Rudolfensis,Homo temprano,2.535381,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Homo Floresiensis,Otros,0.76521866,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
@@ -2000,31 +2000,31 @@ Australopithecus Garhi,Australopithecus,3.15628185,0,1,0.25,4,3,1,2,2,0,0,0,1,1,
 Homo Naledi,Otros,0.54964392,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Australopithecus Sediba,Australopithecus,2.14727792,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Homo Floresiensis,Otros,0.49302658,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
-hominino Sahelanthropus tchadensis,Homininos,7.37366768,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.37366768,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 hominino Ardipithecus ramidus / kabadda,Homininos,4.30244161,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Australopithecus Anamensis,Australopithecus,4.0815547,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
-hominino Sahelanthropus tchadensis,Homininos,7.11475955,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.11475955,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Paranthropus Robustus,Paranthropus,2.25437439,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Australopithecus Africanus,Australopithecus,3.27337788,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Homo Ergaster,Homo temprano,1.24711893,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Australopithecus Afarensis,Australopithecus,3.89014464,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Australopithecus Africanus,Australopithecus,4.14442124,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
-hominino Orrorin tugenencin,Homininos,6.25468743,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.25468743,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Ergaster,Homo temprano,1.45075198,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Australopithecus Garhi,Australopithecus,2.61842103,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
-hominino Orrorin tugenencin,Homininos,5.97282607,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.97282607,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Georgicus,Homo temprano,1.87445482,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Homo Ergaster,Homo temprano,2.19411815,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
-hominino Sahelanthropus tchadensis,Homininos,6.9306806,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
-hominino Orrorin tugenencin,Homininos,6.66153355,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Sahelanthropus tchadensis,Homininos,6.9306806,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.66153355,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Robustus,Paranthropus,2.00057984,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
-hominino Orrorin tugenencin,Homininos,6.34133757,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.34133757,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Afarensis,Australopithecus,3.8548079,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Heidelbergensis,Homo temprano,0.77871971,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
-hominino Orrorin tugenencin,Homininos,6.65512705,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.65512705,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Ergaster,Homo temprano,2.08896182,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Australopithecus Afarensis,Australopithecus,3.60751664,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
-hominino Sahelanthropus tchadensis,Homininos,7.07992305,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.07992305,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Sediba,Australopithecus,2.43451213,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Australopithecus Bahrelghazali,Australopithecus,3.65061478,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Homo Sapiens,Homo tardío,0.327666,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
@@ -2036,7 +2036,7 @@ Homo Georgicus,Homo temprano,2.38478216,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2
 Homo Antecesor,Homo temprano,1.23636972,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Homo Floresiensis,Otros,0.09370501,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Australopithecus Bahrelghazali,Australopithecus,3.31033055,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
-hominino Orrorin tugenencin,Homininos,5.70355868,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.70355868,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Robustus,Paranthropus,2.18028162,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Paranthropus Aethiopicus,Paranthropus,3.13183698,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Rodhesiensis,Homo tardío,0.7009048,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
@@ -2047,7 +2047,7 @@ Australopithecus Bahrelghazali,Australopithecus,4.07694269,0,0,0.25,2,3,1,2,2,0,
 Australopithecus Garhi,Australopithecus,2.35032107,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Erectus,Homo temprano,1.57164746,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Australopithecus Anamensis,Australopithecus,4.8177533,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
-hominino Orrorin tugenencin,Homininos,6.55222035,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.55222035,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Afarensis,Australopithecus,3.60999842,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Heidelbergensis,Homo temprano,0.54208008,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Sapiens,Homo tardío,0.69072944,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
@@ -2065,8 +2065,8 @@ Homo Sapiens,Homo tardío,0.1228799,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3
 Australopithecus Anamensis,Australopithecus,4.62484293,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Naledi,Otros,0.94044354,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Australopithecus Garhi,Australopithecus,2.9778141,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
-hominino Orrorin tugenencin,Homininos,6.18762051,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
-hominino Orrorin tugenencin,Homininos,5.75010434,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.18762051,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Orrorin tugenencin,Homininos,5.75010434,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Anamensis,Australopithecus,4.04037847,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Rudolfensis,Homo temprano,2.91740788,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Australopithecus Afarensis,Australopithecus,3.83511062,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
@@ -2103,7 +2103,7 @@ Australopithecus Sediba,Australopithecus,2.53964633,0,2,0.25,2,3,1,2,2,1,0,1,0,0
 hominino Ardipithecus ramidus / kabadda,Homininos,4.02876517,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Homo Rudolfensis,Homo temprano,2.88557797,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Australopithecus Afarensis,Australopithecus,3.75188517,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
-hominino Orrorin tugenencin,Homininos,6.25128246,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.25128246,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Sediba,Australopithecus,1.71717208,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Homo Ergaster,Homo temprano,1.96582142,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 "Homo Neanderthalensis
@@ -2119,7 +2119,7 @@ Homo Habilis,Homo temprano,3.0916637,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,
 Paranthropus Boisei,Paranthropus,2.19998032,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Homo Erectus,Homo temprano,1.3621977,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Homo Antecesor,Homo temprano,1.48462244,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Sahelanthropus tchadensis,Homininos,6.79712993,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.79712993,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Sediba,Australopithecus,1.74549879,0,2,0.25,2,3,1,2,2,1,0,1,0,0,2,1,2,0,0,0,0,0,9
 Homo Heidelbergensis,Homo temprano,0.45106591,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Naledi,Otros,0.94596634,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
@@ -2127,12 +2127,12 @@ Homo Antecesor,Homo temprano,0.7764716,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,
 Homo Floresiensis,Otros,0.00810232,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 "Homo Neanderthalensis
 ",Homo tardío,0.85879126,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
-hominino Sahelanthropus tchadensis,Homininos,7.37637248,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.37637248,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Paranthropus Robustus,Paranthropus,2.07798207,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
-hominino Sahelanthropus tchadensis,Homininos,7.4335689,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.4335689,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Sapiens,Homo tardío,0.05207009,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Paranthropus Boisei,Paranthropus,2.87044036,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
-hominino Sahelanthropus tchadensis,Homininos,6.98467546,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.98467546,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Paranthropus Aethiopicus,Paranthropus,2.45775228,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Homo Rudolfensis,Homo temprano,2.37585998,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Paranthropus Aethiopicus,Paranthropus,2.88866152,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
@@ -2142,7 +2142,7 @@ Paranthropus Robustus,Paranthropus,1.69047764,0,2,0.0833333333333333,5,1,0,0,1,0
 Homo Floresiensis,Otros,0.81567845,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Australopithecus Bahrelghazali,Australopithecus,3.96445183,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Homo Antecesor,Homo temprano,0.90620204,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Orrorin tugenencin,Homininos,6.18232656,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.18232656,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Bahrelghazali,Australopithecus,3.41853374,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Homo Heidelbergensis,Homo temprano,0.77660135,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Sapiens,Homo tardío,0.00231025,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
@@ -2159,18 +2159,18 @@ Homo Rudolfensis,Homo temprano,2.41712418,0,1,0.3333333333333333,2,3,2,2,2,0,0,0
 Australopithecus Bahrelghazali,Australopithecus,3.64452649,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Homo Georgicus,Homo temprano,1.9806511,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Australopithecus Africanus,Australopithecus,3.26313951,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
-hominino Sahelanthropus tchadensis,Homininos,7.69322771,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,7.69322771,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Naledi,Otros,0.5996687,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Australopithecus Garhi,Australopithecus,2.40857359,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Rodhesiensis,Homo tardío,0.54388784,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
-hominino Orrorin tugenencin,Homininos,6.05349718,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.05349718,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Sapiens,Homo tardío,0.67147274,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
-hominino Orrorin tugenencin,Homininos,5.71400377,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.71400377,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Antecesor,Homo temprano,1.66324458,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Orrorin tugenencin,Homininos,6.39346828,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.39346828,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Sapiens,Homo tardío,0.32969354,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Homo Georgicus,Homo temprano,1.83433729,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
-hominino Orrorin tugenencin,Homininos,6.42773149,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.42773149,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Rodhesiensis,Homo tardío,1.09521278,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Australopithecus Bahrelghazali,Australopithecus,3.5105781,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Homo Antecesor,Homo temprano,1.62354915,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
@@ -2184,15 +2184,15 @@ hominino Ardipithecus ramidus / kabadda,Homininos,4.25588118,0,1,0.25,2,4,1,1,1,
 Homo Heidelbergensis,Homo temprano,0.26646957,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 Homo Floresiensis,Otros,0.56274485,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Homo Erectus,Homo temprano,1.63046218,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
-hominino Orrorin tugenencin,Homininos,6.21640751,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.21640751,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Sapiens,Homo tardío,0.29694628,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Paranthropus Robustus,Paranthropus,1.84329698,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
-hominino Sahelanthropus tchadensis,Homininos,6.8882525,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.8882525,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Rudolfensis,Homo temprano,2.84633474,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
-hominino Sahelanthropus tchadensis,Homininos,6.80554966,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.80554966,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Bahrelghazali,Australopithecus,3.59278688,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Australopithecus Afarensis,Australopithecus,4.04271126,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
-hominino Orrorin tugenencin,Homininos,5.74526227,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.74526227,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Anamensis,Australopithecus,4.00467547,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Georgicus,Homo temprano,2.18382565,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Australopithecus Afarensis,Australopithecus,4.18780601,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
@@ -2233,7 +2233,7 @@ Homo Rudolfensis,Homo temprano,2.80194385,0,1,0.3333333333333333,2,3,2,2,2,0,0,0
 Paranthropus Robustus,Paranthropus,2.57211478,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Australopithecus Afarensis,Australopithecus,3.99815313,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Rudolfensis,Homo temprano,2.8699656,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
-hominino Orrorin tugenencin,Homininos,6.08582295,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.08582295,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 "Homo Neanderthalensis
 ",Homo tardío,0.86861602,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
 Australopithecus Garhi,Australopithecus,2.97686132,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
@@ -2246,8 +2246,8 @@ Homo Heidelbergensis,Homo temprano,0.74373895,2,0,0.0833333333333333,2,2,3,4,3,1
 Australopithecus Bahrelghazali,Australopithecus,3.67285019,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 "Homo Neanderthalensis
 ",Homo tardío,0.06861224,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
-hominino Orrorin tugenencin,Homininos,5.8479829,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
-hominino Orrorin tugenencin,Homininos,6.31472696,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.8479829,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Orrorin tugenencin,Homininos,6.31472696,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Rodhesiensis,Homo tardío,1.00565901,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Homo Rudolfensis,Homo temprano,2.92262086,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Australopithecus Garhi,Australopithecus,2.697953,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
@@ -2279,9 +2279,9 @@ Paranthropus Aethiopicus,Paranthropus,3.11121281,0,1,0.0416666666666666,5,1,0,0,
 Paranthropus Robustus,Paranthropus,2.18181972,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Paranthropus Boisei,Paranthropus,2.33858319,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Paranthropus Aethiopicus,Paranthropus,2.63553209,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
-hominino Orrorin tugenencin,Homininos,5.80249526,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.80249526,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Boisei,Paranthropus,2.91877665,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
-hominino Orrorin tugenencin,Homininos,5.76517415,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.76517415,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Afarensis,Australopithecus,3.7122957,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Rodhesiensis,Homo tardío,0.38786536,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 "Homo Neanderthalensis
@@ -2308,10 +2308,10 @@ Homo Antecesor,Homo temprano,1.4815768,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,
 Paranthropus Boisei,Paranthropus,2.44277633,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Paranthropus Aethiopicus,Paranthropus,2.8189247,0,1,0.0416666666666666,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,10
 Australopithecus Garhi,Australopithecus,2.76768224,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
-hominino Orrorin tugenencin,Homininos,5.73792189,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.73792189,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Georgicus,Homo temprano,2.11835677,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Homo Antecesor,Homo temprano,1.63287941,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Orrorin tugenencin,Homininos,6.46948657,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.46948657,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Georgicus,Homo temprano,1.57877564,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Australopithecus Anamensis,Australopithecus,3.9842177,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Australopithecus Anamensis,Australopithecus,4.75207897,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
@@ -2325,8 +2325,8 @@ Paranthropus Robustus,Paranthropus,2.46632381,0,2,0.0833333333333333,5,1,0,0,1,0
 Homo Floresiensis,Otros,0.14771684,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 "Homo Neanderthalensis
 ",Homo tardío,0.25859759,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
-hominino Sahelanthropus tchadensis,Homininos,7.13023178,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
-hominino Orrorin tugenencin,Homininos,5.88351872,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Sahelanthropus tchadensis,Homininos,7.13023178,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.88351872,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Anamensis,Australopithecus,4.33558554,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 "Homo Neanderthalensis
 ",Homo tardío,0.04119665,2,0,0.0833333333333333,4,2,3,4,3,1,1,2,2,4,3,1,0,1,3,2,3,0,23
@@ -2335,9 +2335,9 @@ Homo Ergaster,Homo temprano,1.38117155,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,
 Homo Rodhesiensis,Homo tardío,1.10135159,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 Homo Sapiens,Homo tardío,0.11594265,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Homo Naledi,Otros,0.8478056,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
-hominino Sahelanthropus tchadensis,Homininos,6.81795847,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.81795847,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Garhi,Australopithecus,2.38125292,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
-hominino Orrorin tugenencin,Homininos,5.77721283,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.77721283,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Antecesor,Homo temprano,0.70030809,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
 Paranthropus Robustus,Paranthropus,2.1808824,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Paranthropus Boisei,Paranthropus,2.98276384,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
@@ -2367,7 +2367,7 @@ Homo Georgicus,Homo temprano,2.06594614,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2
 Homo Rudolfensis,Homo temprano,3.15142102,0,1,0.3333333333333333,2,3,2,2,2,0,0,0,0,0,2,1,3,0,0,0,1,0,14
 Homo Heidelbergensis,Homo temprano,1.01888687,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
 hominino Ardipithecus ramidus / kabadda,Homininos,3.91142131,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
-hominino Orrorin tugenencin,Homininos,6.63150779,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.63150779,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Erectus,Homo temprano,1.22422988,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Homo Sapiens,Homo tardío,0.71345303,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Homo Antecesor,Homo temprano,1.58066638,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
@@ -2404,9 +2404,9 @@ Homo Erectus,Homo temprano,1.30831352,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2
 Homo Sapiens,Homo tardío,0.44702799,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
 Australopithecus Garhi,Australopithecus,2.33108838,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Homo Heidelbergensis,Homo temprano,0.52230747,2,0,0.0833333333333333,2,2,3,4,3,1,1,2,2,3,3,1,0,1,3,2,3,0,21
-hominino Orrorin tugenencin,Homininos,6.23544399,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.23544399,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Homo Sapiens,Homo tardío,0.41199613,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
-hominino Sahelanthropus tchadensis,Homininos,6.72045594,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.72045594,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Africanus,Australopithecus,3.61490402,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Australopithecus Garhi,Australopithecus,2.5964987,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
 Australopithecus Africanus,Australopithecus,3.59797468,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
@@ -2427,11 +2427,11 @@ Homo Habilis,Homo temprano,3.0667152,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,
 Homo Naledi,Otros,0.5278436,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Homo Ergaster,Homo temprano,1.34780236,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
 Homo Sapiens,Homo tardío,0.3686773,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
-hominino Orrorin tugenencin,Homininos,5.9256621,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.9256621,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Paranthropus Boisei,Paranthropus,2.48667966,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Paranthropus Robustus,Paranthropus,2.05818226,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Australopithecus Africanus,Australopithecus,3.70707158,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
-hominino Sahelanthropus tchadensis,Homininos,6.86821801,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.86821801,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Australopithecus Anamensis,Australopithecus,3.91501783,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 hominino Ardipithecus ramidus / kabadda,Homininos,3.87877798,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Australopithecus Afarensis,Australopithecus,4.44011966,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
@@ -2453,20 +2453,20 @@ Paranthropus Robustus,Paranthropus,1.8441245,0,2,0.0833333333333333,5,1,0,0,1,0,
 Paranthropus Robustus,Paranthropus,1.98599658,0,2,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,11
 Australopithecus Afarensis,Australopithecus,4.12141604,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Habilis,Homo temprano,2.76898796,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
-hominino Orrorin tugenencin,Homininos,6.38642913,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.38642913,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Afarensis,Australopithecus,3.90348258,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Australopithecus Afarensis,Australopithecus,4.58689667,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Habilis,Homo temprano,3.04880184,0,1,0.3333333333333333,2,3,3,3,2,1,1,1,2,2,3,1,1,1,2,1,2,1,13
 Australopithecus Bahrelghazali,Australopithecus,3.88638209,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Australopithecus Bahrelghazali,Australopithecus,3.98835251,0,0,0.25,2,3,1,2,2,0,0,0,0,0,2,0,4,0,0,0,0,0,6
 Homo Sapiens,Homo tardío,0.65491917,0,1,0.3333333333333333,1,2,4,5,3,1,1,2,2,5,3,1,0,2,3,2,3,1,24
-hominino Orrorin tugenencin,Homininos,6.18464532,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.18464532,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Anamensis,Australopithecus,4.05812009,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
 Homo Floresiensis,Otros,0.47764918,1,1,0.0416666666666666,2,3,3,2,3,1,1,1,2,2,3,1,1,1,1,0,1,0,19
 Paranthropus Boisei,Paranthropus,2.70537435,0,1,0.0833333333333333,5,1,0,0,1,0,0,0,0,0,2,0,3,0,1,0,0,0,12
 Homo Naledi,Otros,0.92646202,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,1,0,1,0,18
 Australopithecus Garhi,Australopithecus,2.69247615,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
-hominino Sahelanthropus tchadensis,Homininos,6.9523155,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,1
+hominino Sahelanthropus tchadensis,Homininos,6.9523155,0,0,0.25,2,4,1,1,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0
 Homo Rodhesiensis,Homo tardío,0.46374637,0,1,0.3333333333333333,4,3,2,2,3,0,1,1,2,3,3,1,1,1,0,1,1,0,22
 hominino Ardipithecus ramidus / kabadda,Homininos,4.04354684,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Homo Ergaster,Homo temprano,1.60386074,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,3,3,1,1,1,2,2,2,1,16
@@ -2487,7 +2487,7 @@ Homo Ergaster,Homo temprano,1.58093745,0,1,0.3333333333333333,1,2,1,4,3,1,1,1,2,
 Homo Georgicus,Homo temprano,2.38444166,1,3,0.3333333333333333,3,3,1,3,2,1,1,1,2,2,3,1,1,1,2,2,2,1,15
 Australopithecus Afarensis,Australopithecus,3.83494812,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 Homo Antecesor,Homo temprano,0.71620363,2,3,0.3333333333333333,3,3,3,3,3,0,1,1,2,2,3,1,1,1,2,2,1,1,20
-hominino Orrorin tugenencin,Homininos,5.8042539,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,5.8042539,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
 Australopithecus Africanus,Australopithecus,3.46868507,0,2,0.0833333333333333,2,4,1,2,2,1,1,0,0,0,2,0,4,0,1,1,0,0,7
 Homo Erectus,Homo temprano,1.02028272,1,3,0.3333333333333333,1,2,3,4,3,1,1,0,2,2,3,1,1,1,2,2,2,1,17
 Australopithecus Garhi,Australopithecus,2.58170998,0,1,0.25,4,3,1,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,8
@@ -2495,4 +2495,4 @@ Homo Naledi,Otros,0.61954866,0,2,0.0833333333333333,4,3,3,2,3,1,1,1,0,0,3,1,1,1,
 Australopithecus Afarensis,Australopithecus,4.4230559,0,1,0.25,4,3,1,1,2,0,1,0,0,0,2,1,4,0,0,0,0,0,5
 hominino Ardipithecus ramidus / kabadda,Homininos,4.45895018,0,1,0.25,2,4,1,1,1,1,0,1,0,0,1,0,2,1,1,0,0,0,2
 Australopithecus Anamensis,Australopithecus,4.31573838,0,1,0.0833333333333333,4,3,1,1,2,0,1,0,0,0,2,0,4,0,1,0,1,0,4
-hominino Orrorin tugenencin,Homininos,6.47159886,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0
+hominino Orrorin tugenencin,Homininos,6.47159886,0,1,0.0833333333333333,2,4,1,1,0,0,0,0,0,0,0,0,4,0,1,0,0,0,1
