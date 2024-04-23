@@ -29,7 +29,14 @@ df_train= pd.read_csv('../data/train/train2.csv')
 
 # DECLARAMOS NUESTRA 'X' E 'Y' PARA ENTRENAR
 
-X=df_train[['Time','Biped_encoded','Foramen_encoded','Torus_Supraorbital_encoded','Tecno_encoded','Diet_encoded','Anatomy_encoded','Location_encoded','Tooth_Enamel_encoded','Canine_Size_encoded']]
+X=df_train[['Time', 'Location_encoded',
+       'Zone_encoded', 'Habitat_encoded', 'Incisor_Size_encoded',
+       'Jaw_Shape_encoded', 'Torus_Supraorbital_encoded',
+       'Prognathism_encoded', 'Foramen_encoded', 'Canine_Size_encoded',
+       'Canines_Shape_encoded', 'Tooth_Enamel_encoded', 'Tecno_encoded',
+       'tecno_type_mapping_encoded', 'Biped_encoded', 'foots_encoded','arms_encoded',
+       'Diet_encoded', 'Sexual_Dimorphism_encoded', 'Hip_encoded',
+       'Vertical_Front_encoded', 'Anatomy_encoded', 'Migrated_encoded']]
 y= df_train['genero_especie_num']
 
 # PIPELINE DEL MEJOR MODELO Y ENTRENAMIENTO
@@ -43,12 +50,12 @@ steps = [
 pipeline = Pipeline(steps)
 
 param_dist = {
-    'scaler': [None, StandardScaler(), MinMaxScaler()],
-    'pca__n_components': [8,9,10],
+    'pca__n_components': [24,25],
     'classifier__n_estimators': [100, 500, 1000],
-    'classifier__max_depth': [5,6,7,8],
-    'classifier__max_leaf_nodes': [16,17,18]
+    'classifier__max_depth': [2,3,4],
+    'classifier__max_leaf_nodes': [9,10,11,16]
 }
+
 
 random_search = RandomizedSearchCV(pipeline, param_distributions=param_dist, cv=5, n_iter=10,n_jobs=-1, random_state=42,verbose= 2)
 

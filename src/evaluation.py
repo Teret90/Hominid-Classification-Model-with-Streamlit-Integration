@@ -24,7 +24,15 @@ df_test= pd.read_csv('../data/test/test2.csv')
 
 # DECLARAMOS LA 'X' E 'Y' DEL TEST
 
-X1=df_test[['Time','Biped_encoded','Foramen_encoded','Torus_Supraorbital_encoded','Tecno_encoded','Diet_encoded','Anatomy_encoded','Location_encoded','Tooth_Enamel_encoded','Canine_Size_encoded']]
+X1=df_test[['Time', 'Location_encoded',
+       'Zone_encoded', 'Habitat_encoded','Cranial_Capacity','Height', 'Incisor_Size_encoded',
+       'Jaw_Shape_encoded', 'Torus_Supraorbital_encoded',
+       'Prognathism_encoded', 'Foramen_encoded', 'Canine_Size_encoded',
+       'Canines_Shape_encoded', 'Tooth_Enamel_encoded', 'Tecno_encoded',
+       'tecno_type_mapping_encoded', 'Biped_encoded', 'foots_encoded','arms_encoded',
+       'Diet_encoded', 'Sexual_Dimorphism_encoded', 'Hip_encoded',
+       'Vertical_Front_encoded', 'Anatomy_encoded', 'Migrated_encoded']]
+
 y1= df_test['genero_especie_num']
 
 # HACEMOS UNA LISTA QUE SERVIRÁ PARA PONER LAS ETIQUETAS DE LA CONFUSION MATRIX
@@ -67,6 +75,7 @@ y_pred_rf_pca_test1_pproba_2 = rf1.predict_proba(X1)
 
 # SACAMOS LAS MÉTRICAS PARA EVALUAR NUESTRO MODELO SOBRE TEST
 
+
 precision2 = precision_score(y1, y_pred_rf_pca_test1_2,average='weighted')
 recall2 = recall_score(y1, y_pred_rf_pca_test1_2,average='weighted')
 f12 = f1_score(y1, y_pred_rf_pca_test1_2,average='weighted')
@@ -78,7 +87,6 @@ print("Recall:", recall2)
 print("F1-score:", f12)
 print('ROC AUC score:', roc_auc2)
 print('Accuracy',accuracy2)
-
 
 
 plt.figure(figsize=(15,15))
@@ -93,14 +101,12 @@ plt.yticks(rotation=360)
 plt.yticks(range(len(lista_nombres_hominidos)), lista_nombres_hominidos)
 plt.title('Confusion Matrix: rendimiento del Modelo')
 
-
+# GUARDAMOS NUESTRA FIGURA
 carpeta_imagenes = "../img/"
 if not os.path.exists(carpeta_imagenes):
     os.makedirs(carpeta_imagenes)
 
-# Nombre del archivo de la figura
 nombre_figura = "confusion_matrix.png"
 
-# Guardar la figura en la carpeta de imágenes
 ruta_figura = os.path.join(carpeta_imagenes, nombre_figura)
 plt.savefig(ruta_figura)

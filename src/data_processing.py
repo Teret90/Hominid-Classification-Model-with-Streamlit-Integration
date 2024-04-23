@@ -72,8 +72,18 @@ df2['Zone_encoded'] = label_encoder.fit_transform(df2['Zone'])
 
 habitat_frequencies = df2['Habitat'].value_counts(normalize=True)
 
-habitat_encoded = df2['Habitat'].map(habitat_frequencies)
-df2['Habitat_encoded'] = habitat_encoded
+habitat_mapping = {
+    'peninsular': 0,
+    'forest-savanna': 0,
+    'jungle': 1,
+    'cold forest': 1,
+    'forest-gallery': 1,
+    'forest':1,
+    'mixed':2,
+    'savannah':3
+}
+
+df2['Habitat_encoded'] = df2['Habitat'].map(habitat_mapping)
 
 # INCISOR SIZE
 
@@ -325,11 +335,11 @@ df2['genero_especie_num'] = df2['Genus_&_Specie'].map(especies)
 
 df_genus_encoded= df2[['Genus_&_Specie','genero_etiqueta','Time',
        'Location_encoded',
-       'Zone_encoded', 'Habitat_encoded', 'Incisor_Size_encoded',
+       'Zone_encoded', 'Habitat_encoded', 'Cranial_Capacity','Height','Incisor_Size_encoded',
        'Jaw_Shape_encoded', 'Torus_Supraorbital_encoded',
        'Prognathism_encoded', 'Foramen_encoded', 'Canine_Size_encoded',
        'Canines_Shape_encoded', 'Tooth_Enamel_encoded', 'Tecno_encoded',
-       'tecno_type_mapping_encoded', 'Biped_encoded', 'foots_encoded',
+       'tecno_type_mapping_encoded', 'Biped_encoded', 'foots_encoded','arms_encoded',
        'Diet_encoded', 'Sexual_Dimorphism_encoded', 'Hip_encoded',
        'Vertical_Front_encoded', 'Anatomy_encoded', 'Migrated_encoded','genero_especie_num']]
 
@@ -342,7 +352,7 @@ df_genus_encoded.to_csv('../data/processed/df_genus_encoded.csv',index=False)
 
 df= df2[['genero_etiqueta','Time',
        'Location_encoded',
-       'Zone_encoded', 'Habitat_encoded', 'Incisor_Size_encoded',
+       'Zone_encoded', 'Habitat_encoded','Cranial_Capacity','Height', 'Incisor_Size_encoded',
        'Jaw_Shape_encoded', 'Torus_Supraorbital_encoded',
        'Prognathism_encoded', 'Foramen_encoded', 'Canine_Size_encoded',
        'Canines_Shape_encoded', 'Tooth_Enamel_encoded', 'Tecno_encoded',
