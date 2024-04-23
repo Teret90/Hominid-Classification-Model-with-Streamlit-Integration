@@ -15,15 +15,14 @@ def transformar_tiempo(tiempo_seleccionado):
     # Aquí podrías usar una fórmula específica para tu transformación
     # Por ejemplo, podrías escalar el valor seleccionado al rango de tu columna 'Time'
     # tiempo_transformado = ...
-    tiempo_transformado = tiempo_seleccionado  # En este ejemplo, se mantiene el mismo valor seleccionado
+    tiempo_transformado = tiempo_seleccionado  
 
     return tiempo_transformado
 
 def main():
     st.title("Evolución humana: Modelo Clasificación de Hominoideos\n")
 
-# Insertar una imagen desde una ruta de archivo
-    imagen_path = "../img/img1.png"  # Ruta de tu imagen PNG
+    imagen_path = "../img/img1.png"  
     def cargar_imagen(imagen_path):
         st.image(imagen_path, caption='Descripción opcional de la imagen', use_column_width=True)
 
@@ -32,17 +31,13 @@ def main():
 
 
 
-
     st.title("Datación")
     st.write("Selecciona el tiempo en el que vivieron los homínidos:")
 
-    # Control deslizante para seleccionar el tiempo
     tiempo_seleccionado = st.slider("Tiempo (en millones de años)", min_value=min_time, max_value=max_time, value=(min_time + max_time) / 2)
 
-    # Transformar el tiempo seleccionado al rango original
     tiempo_transformado = transformar_tiempo(tiempo_seleccionado)
 
-    # Mostrar el tiempo seleccionado y transformado
     st.write(f"Tiempo seleccionado: {tiempo_seleccionado} millones de años")
     st.write(f"Tiempo transformado: {tiempo_transformado}")
 
@@ -57,19 +52,15 @@ def main():
     st.title("Bípedo")
     st.write("Selecciona la probabilidad de ser bípedo:")
 
-    # Lista de opciones para la selección
+
     opciones_biped = ['baja probabilidad', 'alta probabilidad', 'si', 'moderno']
 
-    # Desplegable para que el usuario elija el tipo de dato bipedo
     seleccion_biped = st.selectbox("Selecciona la probabilidad de ser bípedo:", opciones_biped)
 
-    # Mapear la selección a su valor numérico correspondiente
     valor_numerico_biped = biped_mapping.get(seleccion_biped)
 
-    # Mostrar el valor numérico correspondiente
     st.write(f"El valor numérico correspondiente para '{seleccion_biped}' es: {valor_numerico_biped}")
 
-    # Diccionario que mapea los valores de 'Foramen_Mágnum_Position' a valores numéricos
     foramen_mapping = {
         'posterior': 0,
         'semi-anterior': 1,
@@ -81,16 +72,12 @@ def main():
     st.title("Posición del Foramen mágnum")
     
 
-    # Lista de opciones para la selección
     opciones_foramen = list(foramen_mapping.keys())
 
-    # Desplegable para que el usuario elija la posición del foramen mágnum
     seleccion_foramen = st.selectbox("Selecciona la posición del Foramen mágnum:", opciones_foramen)
 
-    # Mapear la selección a su valor numérico correspondiente
     valor_numerico_foramen = foramen_mapping.get(seleccion_foramen)
 
-    # Mostrar el valor numérico correspondiente
     st.write(f"El valor numérico correspondiente para '{seleccion_foramen}' es: {valor_numerico_foramen}")
 
 
@@ -109,10 +96,8 @@ def main():
 
     seleccion_torus = st.selectbox("Selecciona el tipo de Torus Supraorbital:", opciones_torus)
 
-    # Mapear la selección a su valor numérico correspondiente
     valor_numerico_torus = torus_supraorbital_mapping.get(seleccion_torus)
 
-    # Mostrar el valor numérico correspondiente
     st.write(f"El valor numérico correspondiente para '{seleccion_torus}' es: {valor_numerico_torus}")
 
     tecno_mapping = {
@@ -123,21 +108,15 @@ def main():
 
 
     st.title("Tecnología")
-   
 
-    # Lista de opciones para la selección
     opciones_tecno = list(tecno_mapping.keys())
 
-    # Desplegable para que el usuario elija la respuesta al atributo Tecno
     seleccion_tecno = st.selectbox("Selecciona la presencia o ausencia de avances tecnológicos:", opciones_tecno)
 
-    # Mapear la selección a su valor numérico correspondiente
     valor_numerico_tecno = tecno_mapping.get(seleccion_tecno)
 
-    # Mostrar el valor numérico correspondiente
     st.write(f"El valor numérico correspondiente para '{seleccion_tecno}' es: {valor_numerico_tecno}")
 
-    # Diccionario que mapea los valores de 'Diet' a valores numéricos
     diet_mapping = {
         'Carnívora': 3,
         'Omnivora': 4,
@@ -150,20 +129,16 @@ def main():
     st.title("Dieta")
     
 
-    # Lista de opciones para la selección
     opciones_dieta = list(diet_mapping.keys())
 
-    # Desplegable para que el usuario elija el tipo de dieta
     seleccion_dieta = st.selectbox("Selecciona el tipo de dieta:", opciones_dieta)
 
-    # Mapear la selección a su valor numérico correspondiente
     valor_numerico_dieta = diet_mapping.get(seleccion_dieta)
 
-    # Mostrar el valor numérico correspondiente
+   
     st.write(f"El valor numérico correspondiente para '{seleccion_dieta}' es: {valor_numerico_dieta}")
 
 
-    # Diccionario que mapea los valores de 'Anatomy' a valores numéricos
     anatomy_mapping = {
     'Antigua': 0,
     'Mixta': 1,
@@ -173,18 +148,13 @@ def main():
 
 
     st.title("Características anatómicas")
-    
-
-    # Lista de opciones para la selección
+ 
     opciones_anatomía = list(anatomy_mapping.keys())
 
-    # Desplegable para que el usuario elija el tipo de anatomía
     seleccion_anatomia = st.selectbox("Selecciona el tipo de anatomía:", opciones_anatomía)
 
-    # Mapear la selección a su valor numérico correspondiente
     valor_numerico_anatomia = anatomy_mapping.get(seleccion_anatomia)
 
-    # Mostrar el valor numérico correspondiente
     st.write(f"El valor numérico correspondiente para '{seleccion_anatomia}' es: {valor_numerico_anatomia}")
 
 
@@ -192,26 +162,23 @@ def main():
     st.title("Ubicación")
     
 
-    # Lista de opciones para la selección
+  
     opciones_ubicacion = ['Africa', 'Europa', 'Asia']
 
-    # Desplegable para que el usuario elija la ubicación
     seleccion_ubicacion = st.selectbox("Selecciona la ubicación:", opciones_ubicacion)
 
-    # Crear una instancia de LabelEncoder
+   
     label_encoder = LabelEncoder()
 
-    # Mapear las ubicaciones a valores numéricos
+  
     ubicaciones_codificadas = label_encoder.fit_transform(opciones_ubicacion)
 
-    # Obtener el valor numérico correspondiente a la selección del usuario
+  
     valor_numerico_ubicacion = ubicaciones_codificadas[opciones_ubicacion.index(seleccion_ubicacion)]
 
-    # Mostrar el valor numérico correspondiente
     st.write(f"El valor numérico correspondiente para '{seleccion_ubicacion}' es: {valor_numerico_ubicacion}")
 
-    
-    # Diccionario que mapea los valores de 'Tooth_Enamel' a valores numéricos
+  
     tooth_enamel_mapping = {
         'Muy grueso': 0,
         'Grueso': 0,
@@ -224,20 +191,18 @@ def main():
     st.title("Datos sobre el esmalte dental")
     st.write("Selecciona el grosor del esmalte dental:")
 
-    # Lista de opciones para la selección
     opciones_esmalte = list(tooth_enamel_mapping.keys())
 
-    # Desplegable para que el usuario elija el grosor del esmalte dental
+  
     seleccion_esmalte_dental = st.selectbox("Selecciona el grosor del esmalte dental:", opciones_esmalte)
 
-    # Mapear la selección a su valor numérico correspondiente
     valor_numerico_esmalte = tooth_enamel_mapping.get(seleccion_esmalte_dental)
 
-    # Mostrar el valor numérico correspondiente
+    
     st.write(f"El valor numérico correspondiente para '{seleccion_esmalte_dental}' es: {valor_numerico_esmalte}")
 
     
-    # Diccionario que mapea los valores de 'Canine Size' a valores numéricos
+    
     canine_s_mapping = {
     'Grande': 0,
     'Pequeño': 1
