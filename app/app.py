@@ -4,26 +4,21 @@ import pickle
 import streamlit as st 
 from sklearn.preprocessing import LabelEncoder
 from PIL import Image 
-#import evaluation.py
-#from evaluation.py import calcular_metricas
-#from sklearn.metrics import precision_score, recall_score, f1_score, accuracy_score, roc_auc_score
 
-    # Crear una barra lateral para la navegación entre pestañas
+
+    # Creo una barra lateral para la navegación entre pestañas
 st.sidebar.title('Navegación')
 pestañas = ['Predicciones del Modelo', 'Desempeño del Modelo']  # Nombres de las pestañas
 seleccion = st.sidebar.selectbox('Ir a:', pestañas)
 
-# Mostrar contenido de la pestaña seleccionada
+# Muestro contenido de la pestaña seleccionada
 
 
 min_time = 0.00052926
 max_time = 7.6994172
 
 def transformar_tiempo(tiempo_seleccionado):
-    # Realiza la transformación del tiempo al rango original de tu columna 'Time'
-    # Aquí podrías usar una fórmula específica para tu transformación
-    # Por ejemplo, podrías escalar el valor seleccionado al rango de tu columna 'Time'
-    # tiempo_transformado = ...
+
     tiempo_transformado = tiempo_seleccionado  
 
     return tiempo_transformado
@@ -39,16 +34,14 @@ def main():
     cargar_imagen(imagen_path)
 
 
-
+    # Primero seleccionamos el tiempo
     st.title("Datación")
     st.write("Selecciona el tiempo en el que vivieron los homininos:")
 
     tiempo_seleccionado = st.slider("Tiempo (en millones de años)", min_value=min_time, max_value=max_time, value=(min_time + max_time) / 2)
 
-    tiempo_transformado = transformar_tiempo(tiempo_seleccionado)
-
     st.write(f"Tiempo seleccionado: {tiempo_seleccionado} millones de años")
-    st.write(f"Tiempo transformado: {tiempo_transformado}")
+    
 
     locations = ['Africa', 'Europa', 'Asia']
 
