@@ -79,7 +79,7 @@ def main():
     'Sabana': 3
     }
 
-    st.title("Selección de Hábitat")
+    st.title("Hábitat")
     
 
     opciones_habitat = list(habitat_mapping.keys())
@@ -90,174 +90,48 @@ def main():
     
     st.write(f"El valor numérico correspondiente para '{habitat_seleccionado}' es: {valor_numerico_habitat}")
 
+    # TIPO DE DIETA
 
-    # ALTURA
-    min_altura = 80.00903
-    max_altura = 184.98145
-
-    
-    st.title("Altura")
-    
-
-    
-    altura_seleccionada = st.slider("Altura (en cm)", 
-                                    min_value=min_altura, 
-                                    max_value=max_altura, 
-                                    value=(min_altura + max_altura) / 2)
-
-
-
-    # CAPACIDAD CRANEAL
-    min_capacidad_craneal = 0.07491
-    max_capacidad_craneal = 1448.39747
-
-    st.title("Capacidad craneal")
-    
-    capacidad_craneal_seleccionada = st.slider("Seleccione la capacidad craneal (en cm³)", 
-                                           min_value=min_capacidad_craneal, 
-                                           max_value=max_capacidad_craneal, 
-                                           value=(min_capacidad_craneal + max_capacidad_craneal) / 2)
-    
-    
-    # TAMAÑO INCISIVOS
-    mapeo_tamano_incisivos = {
-    'Muy pequeño': 1,
-    'Pequeño': 2,
-    'Mediano grande': 3,
-    'Grande': 4,
-    'Megadoncia': 5
+    diet_mapping = {
+        'Carnívora': 3,
+        'Omnivora': 4,
+        'Frutos blandas': 2,
+        'Frutos duras': 0,
+        'Frutos secos': 1
     }
+
+    st.title("Dieta")
+    
+
+    opciones_dieta = list(diet_mapping.keys())
+
+    seleccion_dieta = st.selectbox("Selecciona el tipo de dieta:", opciones_dieta)
+
+    valor_numerico_dieta = diet_mapping.get(seleccion_dieta)
+
+   
+    st.write(f"El valor numérico correspondiente para '{seleccion_dieta}' es: {valor_numerico_dieta}")
+
+    # MIGRACIÓN
+
+    codificador_etiquetas = LabelEncoder()
+
+    st.title("Migración")
+
+
+    opciones_migracion = ['Migrada', 'No Migrada'] 
+
+
+    migracion_seleccionada = st.selectbox("Seleccione si hubo o no migración:", opciones_migracion)
 
  
-    st.title("Tamaño de incisivos")
-
-    opciones_tamano_incisivos = list(mapeo_tamano_incisivos.keys())
-
-    tamano_incisivos_seleccionado = st.selectbox("Seleccione el tamaño de incisivos:", opciones_tamano_incisivos)
-
-    valor_numerico_tamano_incisivos = mapeo_tamano_incisivos.get(tamano_incisivos_seleccionado)
-   
-    st.write(f"El valor numérico correspondiente para '{tamano_incisivos_seleccionado}' es: {valor_numerico_tamano_incisivos}")
-
-    # FORMA MANDÍBULA
-
-    mapeo_forma_mandibula = {
-    'Forma de V': 1,
-    'Moderna': 2,
-    'Forma de U': 3,   
-    'Cónica': 4
-    }
+    codificador_etiquetas.fit(opciones_migracion)
 
 
-    st.title("Forma de la Mandíbula")
-
-    opciones_forma_mandibula = list(mapeo_forma_mandibula.keys())
-
-    forma_mandibula_seleccionada = st.selectbox("Seleccione la forma de la mandíbula:", opciones_forma_mandibula)
-
-    valor_numerico_forma_mandibula = mapeo_forma_mandibula.get(forma_mandibula_seleccionada)
-
-    st.write(f"El valor numérico correspondiente para '{forma_mandibula_seleccionada}' es: {valor_numerico_forma_mandibula}")
-
-    # GRADO DE PROGNATISMO
-
-    mapeo_prognatismo = {
-    'Ausente': 5,
-    'Reducido': 4,
-    'Medio': 3,
-    'Medio-alto': 2,
-    'Alto': 1,
-    'Muy alto': 0
-    }
-
-    st.title("Grado de Prognatismo")
-
-    opciones_prognatismo = list(mapeo_prognatismo.keys())
+    valor_numerico_migracion = codificador_etiquetas.transform([migracion_seleccionada])
 
 
-    prognatismo_seleccionado = st.selectbox("Seleccione el grado de prognatismo:", opciones_prognatismo)
-
-    valor_numerico_prognatismo = mapeo_prognatismo.get(prognatismo_seleccionado)
-
-    st.write(f"El valor numérico correspondiente para '{prognatismo_seleccionado}' es: {valor_numerico_prognatismo}")
-
-    # PROBABILIDAD DE BIPEDISMO
-
-    biped_mapping = {
-        'Baja probabilidad': 0,
-        'Alta probabilidad': 1,
-        'Si': 2,
-        'Moderno':3
-        }
-
-    st.title("Bípedo")
-
-
-    opciones_biped = ['Baja probabilidad', 'Alta probabilidad', 'Si', 'Moderno']
-
-    seleccion_biped = st.selectbox("Selecciona la probabilidad de ser bípedo:", opciones_biped)
-
-    valor_numerico_biped = biped_mapping.get(seleccion_biped)
-
-    st.write(f"El valor numérico correspondiente para '{seleccion_biped}' es: {valor_numerico_biped}")
-
-    # POSICIÓN DEL FORÁMEN MÁGNUM
-
-    foramen_mapping = {
-        'Posterior': 0,
-        'Semi-anterior': 1,
-        'Anterior': 2,
-        'Moderno': 3
-    }
-
-
-    st.title("Posición del Foramen mágnum")
-
-    opciones_foramen = list(foramen_mapping.keys())
-
-    seleccion_foramen = st.selectbox('Seleccione la posición del Foramen mágnum:', opciones_foramen)
-
-    valor_numerico_foramen = foramen_mapping.get(seleccion_foramen)
-
-    st.write(f"El valor numérico correspondiente para '{seleccion_foramen}' es: {valor_numerico_foramen}")
-
-    # GRADO DE PROTUBERANCIA DEL TORUS SUPRAORBITAL
-
-    torus_supraorbital_mapping = {
-    'Ultra Protuberante':0,
-    'Muy Protuberante':1,
-    'Menos Protuberante':2,
-    'Poco Protuberante':3,
-    'Plano':4
-    }
-
-    st.title("Grado de protuberancia del Torus Supraorbital")
-    
-
-    opciones_torus = list(torus_supraorbital_mapping.keys())
-
-    seleccion_torus = st.selectbox("Selecciona el tipo de Torus Supraorbital:", opciones_torus)
-
-    valor_numerico_torus = torus_supraorbital_mapping.get(seleccion_torus)
-
-    st.write(f"El valor numérico correspondiente para '{seleccion_torus}' es: {valor_numerico_torus}")
-
-    # VERTICALIDAD FRONTAL
-    mapeo_vertical_frontal = {
-    'No': 0,
-    'Sí': 1,
-    'Moderna': 2,
-    }
-    
-    st.title("Selección de Verticalidad Frontal")
-
-    opciones_vertical_frontal = list(mapeo_vertical_frontal.keys())
-
-    vertical_frontal_seleccionada = st.selectbox("Seleccione el tipo de verticalidad frontal:", opciones_vertical_frontal)
-
-    valor_numerico_vertical_frontal = mapeo_vertical_frontal.get(vertical_frontal_seleccionada)
-
-    st.write(f"El valor numérico correspondiente para '{vertical_frontal_seleccionada}' es: {valor_numerico_vertical_frontal}")
+    st.write(f"El valor transformado para '{migracion_seleccionada}' es: {valor_numerico_migracion}")
 
     #PROBABILIDAD DE USO DE TECNOLOGÍA
 
@@ -287,7 +161,7 @@ def main():
     'modo 3': 4,
     'modo 4': 5}
 
-    st.title("Selección de Tipo de Herramientas")
+    st.title("Tipo de Herramientas")
 
     opciones_tipo_herramientas = list(mapeo_tipo_herramientas.keys())
 
@@ -296,28 +170,6 @@ def main():
     valor_numerico_tipo_herramientas = mapeo_tipo_herramientas.get(tipo_herramientas_seleccionado)
 
     st.write(f"El valor numérico correspondiente para '{tipo_herramientas_seleccionado}' es: {valor_numerico_tipo_herramientas}")
-
-    # TIPO DE DIETA
-
-    diet_mapping = {
-        'Carnívora': 3,
-        'Omnivora': 4,
-        'Frutos blandas': 2,
-        'Frutos duras': 0,
-        'Frutos secos': 1
-    }
-
-    st.title("Dieta")
-    
-
-    opciones_dieta = list(diet_mapping.keys())
-
-    seleccion_dieta = st.selectbox("Selecciona el tipo de dieta:", opciones_dieta)
-
-    valor_numerico_dieta = diet_mapping.get(seleccion_dieta)
-
-   
-    st.write(f"El valor numérico correspondiente para '{seleccion_dieta}' es: {valor_numerico_dieta}")
 
     #ANATOMÍA
 
@@ -339,6 +191,40 @@ def main():
 
     st.write(f"El valor numérico correspondiente para '{seleccion_anatomia}' es: {valor_numerico_anatomia}")
 
+    # PROBABILIDAD DE BIPEDISMO
+
+    biped_mapping = {
+        'Baja probabilidad': 0,
+        'Alta probabilidad': 1,
+        'Si': 2,
+        'Moderno':3
+        }
+
+    st.title("Bípedo")
+
+
+    opciones_biped = ['Baja probabilidad', 'Alta probabilidad', 'Si', 'Moderno']
+
+    seleccion_biped = st.selectbox("Selecciona la probabilidad de ser bípedo:", opciones_biped)
+
+    valor_numerico_biped = biped_mapping.get(seleccion_biped)
+
+    st.write(f"El valor numérico correspondiente para '{seleccion_biped}' es: {valor_numerico_biped}")
+
+    # ALTURA
+    min_altura = 80.00903
+    max_altura = 184.98145
+
+    
+    st.title("Altura")
+    
+
+    
+    altura_seleccionada = st.slider("Altura (en cm)", 
+                                    min_value=min_altura, 
+                                    max_value=max_altura, 
+                                    value=(min_altura + max_altura) / 2)
+    
     # PIES
 
     mapeo_tipo_pies = {
@@ -401,7 +287,7 @@ def main():
     'Muy moderna': 3
     }
 
-    st.title("Selección de Cadera")
+    st.title("Tipo de cadera")
 
     opciones_cadera = list(mapeo_cadera.keys())
 
@@ -412,28 +298,142 @@ def main():
     st.write(f"El valor numérico correspondiente para '{cadera_seleccionada}' es: {valor_numerico_cadera}")
 
 
-    # GROSOR DEL ESMALTE DENTAL
-  
-    tooth_enamel_mapping = {
-        'Muy grueso': 0,
-        'Grueso': 0,
-        'Medio-grueso': 1,
-        'Medio-fino': 1,
-        'Fino': 2,
-        'Muy fino': 2 
+
+    # CAPACIDAD CRANEAL
+    min_capacidad_craneal = 0.07491
+    max_capacidad_craneal = 1448.39747
+
+    st.title("Capacidad craneal")
+    
+    capacidad_craneal_seleccionada = st.slider("Seleccione la capacidad craneal (en cm³)", 
+                                           min_value=min_capacidad_craneal, 
+                                           max_value=max_capacidad_craneal, 
+                                           value=(min_capacidad_craneal + max_capacidad_craneal) / 2)
+    
+    # GRADO DE PROGNATISMO
+
+    mapeo_prognatismo = {
+    'Ausente': 5,
+    'Reducido': 4,
+    'Medio': 3,
+    'Medio-alto': 2,
+    'Alto': 1,
+    'Muy alto': 0
     }
 
-    st.title("Datos sobre el esmalte dental")
+    st.title("Grado de Prognatismo")
 
-    opciones_esmalte = list(tooth_enamel_mapping.keys())
+    opciones_prognatismo = list(mapeo_prognatismo.keys())
 
-  
-    seleccion_esmalte_dental = st.selectbox("Selecciona el grosor del esmalte dental:", opciones_esmalte)
 
-    valor_numerico_esmalte = tooth_enamel_mapping.get(seleccion_esmalte_dental)
+    prognatismo_seleccionado = st.selectbox("Seleccione el grado de prognatismo:", opciones_prognatismo)
 
+    valor_numerico_prognatismo = mapeo_prognatismo.get(prognatismo_seleccionado)
+
+    st.write(f"El valor numérico correspondiente para '{prognatismo_seleccionado}' es: {valor_numerico_prognatismo}")
+
+
+
+    # POSICIÓN DEL FORÁMEN MÁGNUM
+
+    foramen_mapping = {
+        'Posterior': 0,
+        'Semi-anterior': 1,
+        'Anterior': 2,
+        'Moderno': 3
+    }
+
+
+    st.title("Posición del Foramen mágnum")
+
+    opciones_foramen = list(foramen_mapping.keys())
+
+    seleccion_foramen = st.selectbox('Seleccione la posición del Foramen mágnum:', opciones_foramen)
+
+    valor_numerico_foramen = foramen_mapping.get(seleccion_foramen)
+
+    st.write(f"El valor numérico correspondiente para '{seleccion_foramen}' es: {valor_numerico_foramen}")
+
+    # GRADO DE PROTUBERANCIA DEL TORUS SUPRAORBITAL
+
+    torus_supraorbital_mapping = {
+    'Ultra Protuberante':0,
+    'Muy Protuberante':1,
+    'Menos Protuberante':2,
+    'Poco Protuberante':3,
+    'Plano':4
+    }
+
+    st.title("Grado de protuberancia del Torus Supraorbital")
     
-    st.write(f"El valor numérico correspondiente para '{seleccion_esmalte_dental}' es: {valor_numerico_esmalte}")
+
+    opciones_torus = list(torus_supraorbital_mapping.keys())
+
+    seleccion_torus = st.selectbox("Selecciona el tipo de Torus Supraorbital:", opciones_torus)
+
+    valor_numerico_torus = torus_supraorbital_mapping.get(seleccion_torus)
+
+    st.write(f"El valor numérico correspondiente para '{seleccion_torus}' es: {valor_numerico_torus}")
+
+    # VERTICALIDAD FRONTAL
+    mapeo_vertical_frontal = {
+    'No': 0,
+    'Sí': 1,
+    'Moderna': 2,
+    }
+    
+    st.title("Selección de Verticalidad Frontal")
+
+    opciones_vertical_frontal = list(mapeo_vertical_frontal.keys())
+
+    vertical_frontal_seleccionada = st.selectbox("Seleccione el tipo de verticalidad frontal:", opciones_vertical_frontal)
+
+    valor_numerico_vertical_frontal = mapeo_vertical_frontal.get(vertical_frontal_seleccionada)
+
+    st.write(f"El valor numérico correspondiente para '{vertical_frontal_seleccionada}' es: {valor_numerico_vertical_frontal}")
+
+    # FORMA MANDÍBULA
+
+    mapeo_forma_mandibula = {
+    'Forma de V': 1,
+    'Moderna': 2,
+    'Forma de U': 3,   
+    'Cónica': 4
+    }
+
+
+    st.title("Forma de la Mandíbula")
+
+    opciones_forma_mandibula = list(mapeo_forma_mandibula.keys())
+
+    forma_mandibula_seleccionada = st.selectbox("Seleccione la forma de la mandíbula:", opciones_forma_mandibula)
+
+    valor_numerico_forma_mandibula = mapeo_forma_mandibula.get(forma_mandibula_seleccionada)
+
+    st.write(f"El valor numérico correspondiente para '{forma_mandibula_seleccionada}' es: {valor_numerico_forma_mandibula}")
+    
+    
+    # TAMAÑO INCISIVOS
+    mapeo_tamano_incisivos = {
+    'Muy pequeño': 1,
+    'Pequeño': 2,
+    'Mediano grande': 3,
+    'Grande': 4,
+    'Megadoncia': 5
+    }
+
+ 
+    st.title("Tamaño de incisivos")
+
+    opciones_tamano_incisivos = list(mapeo_tamano_incisivos.keys())
+
+    tamano_incisivos_seleccionado = st.selectbox("Seleccione el tamaño de incisivos:", opciones_tamano_incisivos)
+
+    valor_numerico_tamano_incisivos = mapeo_tamano_incisivos.get(tamano_incisivos_seleccionado)
+   
+    st.write(f"El valor numérico correspondiente para '{tamano_incisivos_seleccionado}' es: {valor_numerico_tamano_incisivos}")
+
+
 
     # TAMAÑO DE LOS CANINOS
     
@@ -469,27 +469,28 @@ def main():
 
     st.write(f"El valor numérico correspondiente para '{forma_caninos_seleccionada}' es: {valor_numerico_forma_caninos}")
 
-    # MIGRACIÓN
+    # GROSOR DEL ESMALTE DENTAL
+  
+    tooth_enamel_mapping = {
+        'Muy grueso': 0,
+        'Grueso': 0,
+        'Medio-grueso': 1,
+        'Medio-fino': 1,
+        'Fino': 2,
+        'Muy fino': 2 
+    }
 
-    codificador_etiquetas = LabelEncoder()
+    st.title("Datos sobre el esmalte dental")
 
-    st.title("Migración:")
+    opciones_esmalte = list(tooth_enamel_mapping.keys())
 
+  
+    seleccion_esmalte_dental = st.selectbox("Selecciona el grosor del esmalte dental:", opciones_esmalte)
 
-    opciones_migracion = ['Migrada', 'No Migrada'] 
+    valor_numerico_esmalte = tooth_enamel_mapping.get(seleccion_esmalte_dental)
 
-
-    migracion_seleccionada = st.selectbox("Seleccione si hubo o no migración:", opciones_migracion)
-
- 
-    codificador_etiquetas.fit(opciones_migracion)
-
-
-    valor_numerico_migracion = codificador_etiquetas.transform([migracion_seleccionada])
-
-
-    st.write(f"El valor transformado para '{migracion_seleccionada}' es: {valor_numerico_migracion}")
-
+    
+    st.write(f"El valor numérico correspondiente para '{seleccion_esmalte_dental}' es: {valor_numerico_esmalte}")
 
 
     tiempos = []
