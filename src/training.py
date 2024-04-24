@@ -51,7 +51,7 @@ pipeline = Pipeline(steps)
 
 param_dist = {
     'scaler': [StandardScaler()],
-    'pca__n_components': [25],
+    'pca__n_components': [24],
     'classifier__n_estimators': [ 500],
     'classifier__max_depth': [5],
     'classifier__max_leaf_nodes': [18]

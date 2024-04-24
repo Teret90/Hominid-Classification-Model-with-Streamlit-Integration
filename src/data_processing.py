@@ -299,7 +299,7 @@ skeleton_mapping = {
 
 df2['Skeleton_encoded'] = df2['Skeleton'].map(skeleton_mapping)
 
-# TARGET2, ESPECIES
+# TARGET, ESPECIES
 
 especies = {
     'hominino Sahelanthropus tchadensis': 0,
