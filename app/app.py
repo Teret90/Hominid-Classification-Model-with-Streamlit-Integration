@@ -8,7 +8,7 @@ from PIL import Image
 
     # Creo una barra lateral para la navegación entre pestañas
 st.sidebar.title('Navegación')
-pestañas = ['Predicciones del Modelo', 'Desempeño del Modelo']  # Nombres de las pestañas
+pestañas = ['Home','Predicciones del Modelo', 'Desempeño del Modelo']  
 seleccion = st.sidebar.selectbox('Ir a:', pestañas)
 
 # Muestro contenido de la pestaña seleccionada
@@ -17,77 +17,70 @@ seleccion = st.sidebar.selectbox('Ir a:', pestañas)
 min_time = 0.00052926
 max_time = 7.6994172
 
-def transformar_tiempo(tiempo_seleccionado):
-
-    tiempo_transformado = tiempo_seleccionado  
-
-    return tiempo_transformado
+#def transformar_tiempo(tiempo_seleccionado):
+#
+#    tiempo_transformado = tiempo_seleccionado  
+#
+#    return tiempo_transformado
 
 def main():
-    st.title("Evolución humana: Modelo Clasificación de Homininos fósiles\n")
-
-    imagen_path = "../img/img1.png"  
-    def cargar_imagen(imagen_path):
-        st.image(imagen_path, caption='Clasificación de homínidos.Fuente: https://www.museoevolucionhumana.com/media/files/Evolucion.pdf', use_column_width=True)
-
-        
-    cargar_imagen(imagen_path)
 
 
-    # Primero seleccionamos el tiempo
+
+    # TIEMPO
     st.title("Datación")
-    st.write("Selecciona el tiempo en el que vivieron los homininos:")
+    st.write("Seleccione el tiempo en el que vivieron los homínidos:")
 
     tiempo_seleccionado = st.slider("Tiempo (en millones de años)", min_value=min_time, max_value=max_time, value=(min_time + max_time) / 2)
 
-    st.write(f"Tiempo seleccionado: {tiempo_seleccionado} millones de años")
+    #st.write(f"Tiempo seleccionado: {tiempo_seleccionado} millones de años")
     
-
+    # UBICACIÓN:
+    st.title("Localización")
     locations = ['Africa', 'Europa', 'Asia']
 
-    selected_location = st.selectbox("Seleccione una ubicación:", locations)
+    selected_location = st.selectbox("Seleccione una localización:", locations)
 
     label_encoder = LabelEncoder()
 
- 
     label_encoder.fit(locations)
 
     selected_location_encoded = label_encoder.transform([selected_location])[0]
-    st.write("Ubicación seleccionada:")
+    st.write("Localización seleccionada:")
     st.write(selected_location)
 
 
-   
-
+   # ZONA:
+    st.title("Zona")
     opciones_zone = ['Este', 'Sur', 'Central', 'Oeste']
     seleccion_zone = st.selectbox("Seleccione una zona:", opciones_zone)
-
 
     zone_mapping = {
         'Este': 0,
         'Sur': 1,
         'Central': 2,
         'Oeste': 3
-
     }
 
     valor_numerico_zone = zone_mapping.get(seleccion_zone)
 
     st.write(f"El valor numérico correspondiente para '{seleccion_zone}' es: {valor_numerico_zone}")
 
+    # HÁBITAT
+
     habitat_mapping = {
-    'peninsular': 0,
-    'bosque-sabana': 0,
-    'selva': 1,
-    'bosque frío': 1,
-    'galería forestal': 1,
-    'bosque': 1,
-    'mixto': 2,
-    'sabana': 3
+    'Peninsular': 0,
+    'Bosque-sabana': 0,
+    'Selva': 1,
+    'Bosque frío': 1,
+    'Galería forestal': 1,
+    'Bosque': 1,
+    'Mixto': 2,
+    'Sabana': 3
     }
 
     st.title("Selección de Hábitat")
-    st.write("Seleccione el tipo de hábitat para predecir:")
+    
 
     opciones_habitat = list(habitat_mapping.keys())
 
@@ -98,42 +91,45 @@ def main():
     st.write(f"El valor numérico correspondiente para '{habitat_seleccionado}' es: {valor_numerico_habitat}")
 
 
-    min_capacidad_craneal = 0.07491
-    max_capacidad_craneal = 1448.39747
-
-    st.title("Clasificación de Hominidos")
-    st.write("Selecciona la capacidad craneal para clasificar a los homínidos:")
-
-    capacidad_craneal_seleccionada = st.slider("Capacidad Craneal (en cm³)", 
-                                           min_value=min_capacidad_craneal, 
-                                           max_value=max_capacidad_craneal, 
-                                           value=(min_capacidad_craneal + max_capacidad_craneal) / 2)
-    
+    # ALTURA
     min_altura = 80.00903
     max_altura = 184.98145
 
-    # Configurar la aplicación Streamlit
-    st.title("Clasificación de Alturas")
-    st.write("Selecciona la altura para clasificar a las personas:")
+    
+    st.title("Altura")
+    
 
-    # Slider para seleccionar la altura en centímetros
+    
     altura_seleccionada = st.slider("Altura (en cm)", 
                                     min_value=min_altura, 
                                     max_value=max_altura, 
                                     value=(min_altura + max_altura) / 2)
 
 
+
+    # CAPACIDAD CRANEAL
+    min_capacidad_craneal = 0.07491
+    max_capacidad_craneal = 1448.39747
+
+    st.title("Capacidad craneal")
+    
+    capacidad_craneal_seleccionada = st.slider("Seleccione la capacidad craneal (en cm³)", 
+                                           min_value=min_capacidad_craneal, 
+                                           max_value=max_capacidad_craneal, 
+                                           value=(min_capacidad_craneal + max_capacidad_craneal) / 2)
+    
+    
+    # TAMAÑO INCISIVOS
     mapeo_tamano_incisivos = {
-    'muy pequeño': 1,
-    'pequeño': 2,
-    'mediano grande': 3,
-    'grande': 4,
-    'megadoncia': 5
+    'Muy pequeño': 1,
+    'Pequeño': 2,
+    'Mediano grande': 3,
+    'Grande': 4,
+    'Megadoncia': 5
     }
 
  
-    st.title("Selección de Tamaño de Incisivos")
-    st.write("Seleccione el tamaño de incisivos para predecir:")
+    st.title("Tamaño de incisivos")
 
     opciones_tamano_incisivos = list(mapeo_tamano_incisivos.keys())
 
@@ -142,17 +138,18 @@ def main():
     valor_numerico_tamano_incisivos = mapeo_tamano_incisivos.get(tamano_incisivos_seleccionado)
    
     st.write(f"El valor numérico correspondiente para '{tamano_incisivos_seleccionado}' es: {valor_numerico_tamano_incisivos}")
-    
+
+    # FORMA MANDÍBULA
+
     mapeo_forma_mandibula = {
-    'Cónica': 4,
-    'Forma de U': 3,
+    'Forma de V': 1,
     'Moderna': 2,
-    'Forma de V': 1
+    'Forma de U': 3,   
+    'Cónica': 4
     }
 
 
-    st.title("Selección de Forma de la Mandíbula")
-    st.write("Seleccione la forma de la mandíbula para predecir:")
+    st.title("Forma de la Mandíbula")
 
     opciones_forma_mandibula = list(mapeo_forma_mandibula.keys())
 
@@ -162,17 +159,18 @@ def main():
 
     st.write(f"El valor numérico correspondiente para '{forma_mandibula_seleccionada}' es: {valor_numerico_forma_mandibula}")
 
-    mapeo_prognatismo = {
-    'ausente': 5,
-    'reducido': 4,
-    'medio': 3,
-    'medio-alto': 2,
-    'alto': 1,
-    'muy alto': 0
-}
+    # GRADO DE PROGNATISMO
 
-    st.title("Selección de Grado de Prognatismo")
-    st.write("Seleccione el grado de prognatismo para predecir:")
+    mapeo_prognatismo = {
+    'Ausente': 5,
+    'Reducido': 4,
+    'Medio': 3,
+    'Medio-alto': 2,
+    'Alto': 1,
+    'Muy alto': 0
+    }
+
+    st.title("Grado de Prognatismo")
 
     opciones_prognatismo = list(mapeo_prognatismo.keys())
 
@@ -183,19 +181,19 @@ def main():
 
     st.write(f"El valor numérico correspondiente para '{prognatismo_seleccionado}' es: {valor_numerico_prognatismo}")
 
+    # PROBABILIDAD DE BIPEDISMO
 
     biped_mapping = {
-        'baja probabilidad': 0,
-        'alta probabilidad': 1,
-        'si': 2,
-        'moderno':3
+        'Baja probabilidad': 0,
+        'Alta probabilidad': 1,
+        'Si': 2,
+        'Moderno':3
         }
 
     st.title("Bípedo")
-    st.write("Selecciona la probabilidad de ser bípedo:")
 
 
-    opciones_biped = ['baja probabilidad', 'alta probabilidad', 'si', 'moderno']
+    opciones_biped = ['Baja probabilidad', 'Alta probabilidad', 'Si', 'Moderno']
 
     seleccion_biped = st.selectbox("Selecciona la probabilidad de ser bípedo:", opciones_biped)
 
@@ -203,25 +201,27 @@ def main():
 
     st.write(f"El valor numérico correspondiente para '{seleccion_biped}' es: {valor_numerico_biped}")
 
+    # POSICIÓN DEL FORÁMEN MÁGNUM
+
     foramen_mapping = {
-        'posterior': 0,
-        'semi-anterior': 1,
-        'anterior': 2,
-        'moderno': 3
+        'Posterior': 0,
+        'Semi-anterior': 1,
+        'Anterior': 2,
+        'Moderno': 3
     }
 
 
     st.title("Posición del Foramen mágnum")
-    
 
     opciones_foramen = list(foramen_mapping.keys())
 
-    seleccion_foramen = st.selectbox("Selecciona la posición del Foramen mágnum:", opciones_foramen)
+    seleccion_foramen = st.selectbox('Seleccione la posición del Foramen mágnum:', opciones_foramen)
 
     valor_numerico_foramen = foramen_mapping.get(seleccion_foramen)
 
     st.write(f"El valor numérico correspondiente para '{seleccion_foramen}' es: {valor_numerico_foramen}")
 
+    # GRADO DE PROTUBERANCIA DEL TORUS SUPRAORBITAL
 
     torus_supraorbital_mapping = {
     'Ultra Protuberante':0,
@@ -231,7 +231,7 @@ def main():
     'Plano':4
     }
 
-    st.title("Forma del Torus Supraorbital")
+    st.title("Grado de protuberancia del Torus Supraorbital")
     
 
     opciones_torus = list(torus_supraorbital_mapping.keys())
@@ -242,14 +242,14 @@ def main():
 
     st.write(f"El valor numérico correspondiente para '{seleccion_torus}' es: {valor_numerico_torus}")
 
+    # VERTICALIDAD FRONTAL
     mapeo_vertical_frontal = {
-    'moderna': 2,
-    'sí': 1,
-    'no': 0
+    'No': 0,
+    'Sí': 1,
+    'Moderna': 2,
     }
     
     st.title("Selección de Verticalidad Frontal")
-    st.write("Seleccione el tipo de verticalidad frontal para predecir:")
 
     opciones_vertical_frontal = list(mapeo_vertical_frontal.keys())
 
@@ -259,22 +259,25 @@ def main():
 
     st.write(f"El valor numérico correspondiente para '{vertical_frontal_seleccionada}' es: {valor_numerico_vertical_frontal}")
 
+    #PROBABILIDAD DE USO DE TECNOLOGÍA
 
     tecno_mapping = {
-    'no': 0,
-    'si': 2,
-    'probable': 1
+    'No': 0,
+    'Probable': 1,
+    'Si': 2
     }
 
     st.title("Tecnología")
 
     opciones_tecno = list(tecno_mapping.keys())
 
-    seleccion_tecno = st.selectbox("Selecciona la presencia o ausencia de avances tecnológicos:", opciones_tecno)
+    seleccion_tecno = st.selectbox("Selecciona la probabilidad de uso de tecnología:", opciones_tecno)
 
     valor_numerico_tecno = tecno_mapping.get(seleccion_tecno)
 
     st.write(f"El valor numérico correspondiente para '{seleccion_tecno}' es: {valor_numerico_tecno}")
+
+    # TIPO DE HERRAMIENTAS
 
     mapeo_tipo_herramientas = {
     'no': 0,
@@ -285,7 +288,6 @@ def main():
     'modo 4': 5}
 
     st.title("Selección de Tipo de Herramientas")
-    st.write("Seleccione el tipo de herramientas para predecir:")
 
     opciones_tipo_herramientas = list(mapeo_tipo_herramientas.keys())
 
@@ -295,6 +297,8 @@ def main():
 
     st.write(f"El valor numérico correspondiente para '{tipo_herramientas_seleccionado}' es: {valor_numerico_tipo_herramientas}")
 
+    # TIPO DE DIETA
+
     diet_mapping = {
         'Carnívora': 3,
         'Omnivora': 4,
@@ -302,7 +306,6 @@ def main():
         'Frutos duras': 0,
         'Frutos secos': 1
     }
-
 
     st.title("Dieta")
     
@@ -316,6 +319,7 @@ def main():
    
     st.write(f"El valor numérico correspondiente para '{seleccion_dieta}' es: {valor_numerico_dieta}")
 
+    #ANATOMÍA
 
     anatomy_mapping = {
     'Antigua': 0,
@@ -335,13 +339,15 @@ def main():
 
     st.write(f"El valor numérico correspondiente para '{seleccion_anatomia}' es: {valor_numerico_anatomia}")
 
+    # PIES
+
     mapeo_tipo_pies = {
-    'escalada': 0,
-    'caminata': 1
+    'Escalada': 0,
+    'Caminata': 1
     }
 
-    st.title("Selección de tipo de pies")
-    st.write("Seleccione el tipo de pies para predecir:")
+    st.title("Tipo de pies")
+    
 
     opciones_tipo_pies = list(mapeo_tipo_pies.keys())
 
@@ -351,13 +357,14 @@ def main():
 
     st.write(f"El valor numérico correspondiente para '{tipo_pies_seleccionado}' es: {valor_numerico_tipo_pies}")
 
-    mapeo_tipo_brazos = {
-    'escalada': 0,
-    'manipulación': 1,
-    'manipulación con precisión': 2}
+    # BRAZOS
 
-    st.title("Selección de Tipo de Brazos")
-    st.write("Seleccione el tipo de brazos para predecir:")
+    mapeo_tipo_brazos = {
+    'Escalada': 0,
+    'Manipulación': 1,
+    'Manipulación con precisión': 2}
+
+    st.title("Tipo de Brazos")
 
     opciones_tipo_brazos = list(mapeo_tipo_brazos.keys())
 
@@ -367,32 +374,34 @@ def main():
 
     st.write(f"El valor numérico correspondiente para '{tipo_brazos_seleccionado}' es: {valor_numerico_tipo_brazos}")
 
+    # GRADO DIMORFISMO SEXUAL
+
     mapeo_dimorfismo_sexual = {
-    'alto': 0,
-    'medio-alto': 1,
-    'reducido': 2
+    'Alto': 0,
+    'Medio-alto': 1,
+    'Reducido': 2
     }
 
-    st.title("Selección de Dimorfismo Sexual")
-    st.write("Seleccione el nivel de dimorfismo sexual para predecir:")
+    st.title("Dimorfismo Sexual")
 
     opciones_dimorfismo_sexual = list(mapeo_dimorfismo_sexual.keys())
  
-    dimorfismo_sexual_seleccionado = st.selectbox("Seleccione el nivel de dimorfismo sexual:", opciones_dimorfismo_sexual)
+    dimorfismo_sexual_seleccionado = st.selectbox("Seleccione el grado de dimorfismo sexual:", opciones_dimorfismo_sexual)
 
     valor_numerico_dimorfismo_sexual = mapeo_dimorfismo_sexual.get(dimorfismo_sexual_seleccionado)
 
     st.write(f"El valor numérico correspondiente para '{dimorfismo_sexual_seleccionado}' es: {valor_numerico_dimorfismo_sexual}")
 
+    # CADERA
+
     mapeo_cadera = {
-    'muy moderna': 3,
-    'moderna': 2,
-    'ancho': 1,
-    'delgada': 0
-}
+    'Delgada': 0,
+    'Ancho': 1,
+    'Moderna': 2,
+    'Muy moderna': 3
+    }
 
     st.title("Selección de Cadera")
-    st.write("Seleccione el tipo de cadera para predecir:")
 
     opciones_cadera = list(mapeo_cadera.keys())
 
@@ -403,7 +412,7 @@ def main():
     st.write(f"El valor numérico correspondiente para '{cadera_seleccionada}' es: {valor_numerico_cadera}")
 
 
-
+    # GROSOR DEL ESMALTE DENTAL
   
     tooth_enamel_mapping = {
         'Muy grueso': 0,
@@ -415,7 +424,6 @@ def main():
     }
 
     st.title("Datos sobre el esmalte dental")
-    st.write("Selecciona el grosor del esmalte dental:")
 
     opciones_esmalte = list(tooth_enamel_mapping.keys())
 
@@ -427,7 +435,7 @@ def main():
     
     st.write(f"El valor numérico correspondiente para '{seleccion_esmalte_dental}' es: {valor_numerico_esmalte}")
 
-    
+    # TAMAÑO DE LOS CANINOS
     
     canine_s_mapping = {
     'Grande': 0,
@@ -435,7 +443,6 @@ def main():
     }
 
     st.title("Tamaño de los Caninos")
-    st.write("Selecciona el tamaño de los caninos:")
 
     opciones_caninos = list(canine_s_mapping.keys())
  
@@ -445,16 +452,15 @@ def main():
 
     st.write(f"El valor numérico correspondiente para '{seleccion_tamaño_caninos}' es: {valor_numerico_caninos}")
 
+    # FORMA DE LOS CANINOS
 
     mapeo_forma_caninos = {
-    'cónicos': 0,       # más antigua
-    'incisiformes': 1   # más reciente
+    'Cónicos': 0,       # más antigua
+    'Incisiformes': 1   # más reciente
     }
 
     st.title("Selección de Forma de los Caninos")
-    st.write("Seleccione la forma de los caninos para predecir:")
-
-    
+ 
     opciones_forma_caninos = list(mapeo_forma_caninos.keys())
 
     forma_caninos_seleccionada = st.selectbox("Seleccione la forma de los caninos:", opciones_forma_caninos)
@@ -463,17 +469,17 @@ def main():
 
     st.write(f"El valor numérico correspondiente para '{forma_caninos_seleccionada}' es: {valor_numerico_forma_caninos}")
 
+    # MIGRACIÓN
+
     codificador_etiquetas = LabelEncoder()
 
-
-    
-    st.write("Seleccione el tipo de migración:")
+    st.title("Migración:")
 
 
     opciones_migracion = ['Migrada', 'No Migrada'] 
 
 
-    migracion_seleccionada = st.selectbox("Seleccione el tipo de migración:", opciones_migracion)
+    migracion_seleccionada = st.selectbox("Seleccione si hubo o no migración:", opciones_migracion)
 
  
     codificador_etiquetas.fit(opciones_migracion)
@@ -603,6 +609,34 @@ def main():
         23: 'Homo Neanderthalensis',
         24: 'Homo Sapiens'}
     
+    imagenes_prediccion = {
+    'Hominino Sahelanthropus tchadensis': '../img/Hominino_Sahelanthropus_tchadensis.png',
+    'Hominino Orrorin tugenencin': '../img/Hominino_Orrorin_tugenencin.png',
+    'Hominino Ardipithecus ramidus / kabadda':'../img/Hominino_Ardipithecus_ramidus_kabadda.png',
+    'Ardipithecus Ramidus / Kadabba':'../img/Ardipithecus_Ramidus_Kadabba.png',
+    'Australopithecus Anamensis':'../img/Australopithecus_Anamensis.png',
+    'Australopithecus Afarensis':'../img/Australophitecus_afarensis.png',
+    'Australopithecus Bahrelghazali':'../img/Australopithecus_Bahrelghazali.png',
+    'Australopithecus Africanus':'../img/Australopithecus_Africanus.png',
+    'Australopithecus Garhi':'../img/Australopithecus_Garhi.png',
+    'Australopithecus Sediba':'../img/Australopithecus_Sediba.png',
+    'Paranthropus Aethiopicus':'../img/Australopithecus_Aethiopicus.png',
+    'Paranthropus Robustus':'../img/Paranthropus_Robustus.png',
+    'Paranthropus Boisei':'../img/Paranthropus_Boisei.png',
+    'Homo Habilis':'../img/Homo_Habilis.png',
+    'Homo Rudolfensis':'../img/Homo_Rudolfensis.png',
+    'Homo Georgicus':'../img/Homo_Georgicus.png',
+    'Homo Ergaster':'../img/Homo_Ergaster.png',
+    'Homo Erectus':'../img/Homo_Erectus.png',
+    'Homo Naledi':'../img/Homo_Naledi.png',
+    'Homo Floresiensis':'../img/Homo_Florensis.png',
+    'Homo Antecesor':'../img/Homo_Antecesor.png',
+    'Homo Heidelbergensis':'../img/Homo_Heidelbergensis.png',
+    'Homo Rodhesiensis':'../img/Homo_Rodhesiensis.png',
+    'Homo Neanderthalensis':'../img/Homo_Neanderthalensis.png',
+    'Homo Sapiens':'../img/Homo_Sapiens.png'
+    }
+    
     st.title('Predicciones del Modelo:')
     predicciones = modelo.predict(df_respuestas)
     #predicciones_proba=modelo.predic_proba(df_respuestas)
@@ -612,7 +646,23 @@ def main():
     df_predicciones.rename(columns={0: 'Predicción clase'}, inplace=True)
     st.write(df_predicciones)
 
-if seleccion == 'Predicciones del Modelo':
+    for prediccion in etiquetas_prediccion:
+        imagen_p = imagenes_prediccion.get(prediccion, 'imagen_predeterminada.jpg')
+        st.image(imagen_p, caption=f'Imagen para la clase: {prediccion}')
+
+if seleccion == 'Home':
+    st.title("Evolución humana:")
+    st.title(" Modelo Clasificación de Homínidos fósiles.\n")
+
+    imagen_path = "../img/img1.png"  
+    def cargar_imagen(imagen_path):
+        st.image(imagen_path, caption='Clasificación de homínidos.Fuente: https://www.museoevolucionhumana.com/media/files/Evolucion.pdf', use_column_width=True)
+
+        
+    cargar_imagen(imagen_path)
+
+
+elif seleccion == 'Predicciones del Modelo':
     main()
     pass  
 elif seleccion == 'Desempeño del Modelo':
