@@ -4,9 +4,9 @@ import pickle
 import streamlit as st 
 from sklearn.preprocessing import LabelEncoder
 from PIL import Image 
-import evaluation.py
-from evaluation.py import calcular_metricas
-from sklearn.metrics import precision_score, recall_score, f1_score, accuracy_score, roc_auc_score
+#import evaluation.py
+#from evaluation.py import calcular_metricas
+#from sklearn.metrics import precision_score, recall_score, f1_score, accuracy_score, roc_auc_score
 
     # Crear una barra lateral para la navegación entre pestañas
 st.sidebar.title('Navegación')
@@ -612,7 +612,7 @@ def main():
     
     st.title('Predicciones del Modelo:')
     predicciones = modelo.predict(df_respuestas)
-    predicciones_proba=modelo.predic_proba(df_respuestas)
+    #predicciones_proba=modelo.predic_proba(df_respuestas)
     etiquetas_prediccion = [especies[numero] for numero in predicciones]
     df_predicciones = pd.DataFrame({'Predicción clase': etiquetas_prediccion})
     
@@ -621,10 +621,13 @@ def main():
 
 if seleccion == 'Predicciones del Modelo':
     main()
-    pass  # Opcional: puedes omitir esta línea si no necesitas agregar más código aquí
+    pass  
 elif seleccion == 'Desempeño del Modelo':
     imagen_local = '../img/confusion_matrix.png'  # Cambia esto a la ruta de tu imagen
-    st.write("Matriz de confusión del modelo")
+    st.title("Matriz de confusión del modelo")
     st.image(imagen_local, caption='Vemos el desempeño del modelo y su precisión actual clasificando etiquetas', use_column_width=True)
-    
-    pass  # Opcional: puedes omitir esta línea si no necesitas agregar más código aquí
+    df_feature_importances=pd.read_csv('../data/processed/df_feature_importances.csv')
+    st.title('Importancia de las variables para el modelo')
+    st.write(df_feature_importances)
+
+    pass  

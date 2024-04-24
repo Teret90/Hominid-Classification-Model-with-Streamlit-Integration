@@ -1,7 +1,7 @@
 classifier: RandomForestClassifier
-classifier__max_depth: 6
-classifier__max_leaf_nodes: 17
-classifier__n_estimators: 1000
-pca__n_components: 23
-scaler: None
-Best Parameters: {'scaler': None, 'pca__n_components': 23, 'classifier__n_estimators': 1000, 'classifier__max_leaf_nodes': 17, 'classifier__max_depth': 6}
+classifier__max_depth: 5
+classifier__max_leaf_nodes: 18
+classifier__n_estimators: 500
+pca__n_components: 25
+scaler: StandardScaler()
+

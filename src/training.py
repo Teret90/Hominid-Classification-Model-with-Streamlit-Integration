@@ -30,7 +30,7 @@ df_train= pd.read_csv('../data/train/train2.csv')
 # DECLARAMOS NUESTRA 'X' E 'Y' PARA ENTRENAR
 
 X=df_train[['Time', 'Location_encoded',
-       'Zone_encoded', 'Habitat_encoded', 'Incisor_Size_encoded',
+       'Zone_encoded', 'Habitat_encoded','Cranial_Capacity','Height', 'Incisor_Size_encoded',
        'Jaw_Shape_encoded', 'Torus_Supraorbital_encoded',
        'Prognathism_encoded', 'Foramen_encoded', 'Canine_Size_encoded',
        'Canines_Shape_encoded', 'Tooth_Enamel_encoded', 'Tecno_encoded',
@@ -50,10 +50,11 @@ steps = [
 pipeline = Pipeline(steps)
 
 param_dist = {
-    'pca__n_components': [24,25],
-    'classifier__n_estimators': [100, 500, 1000],
-    'classifier__max_depth': [2,3,4],
-    'classifier__max_leaf_nodes': [9,10,11,16]
+    'scaler': [StandardScaler()],
+    'pca__n_components': [25],
+    'classifier__n_estimators': [ 500],
+    'classifier__max_depth': [5],
+    'classifier__max_leaf_nodes': [18]
 }
 
 
