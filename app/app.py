@@ -667,11 +667,15 @@ elif seleccion == 'Predicciones del Modelo':
     main()
     pass  
 elif seleccion == 'Desempeño del Modelo':
-    imagen_local = '../img/confusion_matrix.png'  # Cambia esto a la ruta de tu imagen
+    imagen_local = '../img/output.png'
+    imagen_local2 = '../img/output18.png'
+    imagen_local3='../img/output2.png'
     st.title("Matriz de confusión del modelo")
     st.image(imagen_local, caption='Vemos el desempeño del modelo y su precisión actual clasificando etiquetas', use_column_width=True)
-    df_feature_importances=pd.read_csv('../data/processed/df_feature_importances.csv')
+    st.image(imagen_local2, caption='Porcentaje de varianza acumulada explicada', use_column_width=True)
     st.title('Importancia de las variables para el modelo')
-    st.write(df_feature_importances)
-
+    st.image(imagen_local3, caption='Porcentaje de varianza acumulada explicada', use_column_width=True)
+    st.title('Importancia de los componentes por la varianza acumulada explicada')
+    
+    
     pass  
