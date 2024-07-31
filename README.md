@@ -34,3 +34,36 @@ Para utilizar el modelo de clasificación de homínidos, siga los siguientes pas
 
 Si desea contribuir al desarrollo del modelo o tiene preguntas sobre su uso, no dude en abrir un problema en el repositorio o enviar un correo electrónico al equipo de desarrollo.
 
+# ML
+Machine Learning Classification Project
+
+# README for Hominid Classification Model
+
+This README provides a guide to understanding and using the hominid classification model developed in this machine learning project.
+
+## Model Description
+
+The developed model aims to classify hominids using machine learning techniques. It is based on an extensively processed dataset and an iterative modeling process to achieve optimal performance.
+
+### Model Architecture
+
+The model uses a machine learning architecture specifically designed to address the hominid classification problem. Supervised classification algorithms are implemented, along with Feature Engineering techniques and model hyperparameterization.
+
+### Performance Evaluation
+
+The model's performance is evaluated using metrics specific to classification problems, such as precision, recall, accuracy, F1-score, and confusion matrix. Comprehensive evaluation is conducted to ensure the model's robustness and generalization.
+
+## Model Usage
+
+To use the hominid classification model, follow these steps:
+
+1. **Data Preparation**: Ensure that the input data is in the proper format and apply any necessary preprocessing according to the model's specifications.
+
+2. **Model Loading**: Use the `rf2_final.pkl` file provided in the `models` folder to load the trained model.
+
+3. **Prediction**: Use the loaded model to make predictions on new hominid data. Be sure to follow the instructions provided in the training and evaluation notebooks and scripts.
+
+## Contribution and Support
+
+If you wish to contribute to the model's development or have questions about its usage, feel free to open an issue in the repository or send an email to the development team.
+
